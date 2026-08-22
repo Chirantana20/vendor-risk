@@ -1,0 +1,181 @@
+finding_id,vendor_id,finding_type,severity,raised_date,due_date,status,resolved_date,owner
+F0001,V0066,Data Security Gap,Low,2025-12-03,2026-05-17,Overdue,,Terry Hill
+F0002,V0448,Invoice Duplication Risk,Medium,2025-12-18,2026-01-17,Remediated,2026-02-03,Amanda Harvey
+F0003,V0138,Missing KYC Documentation,Medium,2025-07-15,2025-08-14,Remediated,2025-07-18,Kathleen Andrade
+F0004,V0054,Contract Non-Compliance,Low,2026-01-13,2026-03-14,Remediated,2026-01-30,Douglas Taylor
+F0005,V0400,Contract Non-Compliance,Low,2025-06-09,2025-08-08,Remediated,2025-07-16,Rebecca Wright
+F0006,V0151,Unauthorized Subcontracting,Medium,2026-03-04,2026-05-02,Overdue,,Rachael Howard DDS
+F0007,V0402,Contract Non-Compliance,Medium,2026-01-17,2026-02-16,Open,,Keith Morris
+F0008,V0499,Missing KYC Documentation,High,2025-08-04,2025-08-18,Open,,Francis Robinson
+F0009,V0202,Contract Non-Compliance,High,2025-08-12,2025-08-26,In Progress,,William Moreno
+F0010,V0158,Data Security Gap,Medium,2026-04-04,2026-05-04,Remediated,2026-04-10,Dr. Ariel Sandoval MD
+F0011,V0415,Unauthorized Subcontracting,Critical,2025-02-18,2025-02-25,Remediated,2025-02-26,Theresa Johnston
+F0012,V0273,Late Delivery Pattern,Medium,2025-11-03,2025-12-03,In Progress,,Ryan Bruce
+F0013,V0125,Invoice Duplication Risk,Critical,2025-05-22,2026-05-23,Overdue,,Renee Wolfe
+F0014,V0109,Invoice Duplication Risk,Low,2026-04-10,2026-06-09,Open,,Michael Meza
+F0015,V0309,Missing KYC Documentation,Low,2026-03-19,2026-05-18,Remediated,2026-03-29,Travis Copeland
+F0016,V0367,Unauthorized Subcontracting,Medium,2026-01-23,2026-02-22,In Progress,,Casey Johnson
+F0017,V0329,Expired Certification,Medium,2025-02-18,2025-03-20,Remediated,2025-04-05,Daniel Fox
+F0018,V0259,Contract Non-Compliance,Low,2025-01-06,2025-03-07,In Progress,,Lucas Drake
+F0019,V0024,Missing KYC Documentation,Medium,2025-09-27,2025-10-27,Open,,Tamara Richard
+F0020,V0162,Conflict of Interest Flag,High,2025-09-14,2025-09-28,Remediated,2025-10-09,Charles Bush
+F0021,V0128,Invoice Duplication Risk,Low,2025-04-26,2025-06-25,Remediated,2025-06-23,Sarah Valencia
+F0022,V0397,Invoice Duplication Risk,Medium,2025-03-03,2025-04-02,Open,,Tom Foster
+F0023,V0435,Conflict of Interest Flag,Medium,2025-03-25,2025-04-24,In Progress,,Frank Daugherty
+F0024,V0185,Data Security Gap,High,2025-12-11,2025-12-25,In Progress,,Toni Banks
+F0025,V0261,Late Delivery Pattern,Medium,2025-05-21,2025-06-20,In Progress,,Kristina Preston
+F0026,V0449,Late Delivery Pattern,Medium,2026-04-27,2026-05-27,Open,,Courtney Chapman
+F0027,V0391,Invoice Duplication Risk,Medium,2025-05-22,2026-06-06,Overdue,,Michael Anderson
+F0028,V0245,Invoice Duplication Risk,Medium,2025-01-07,2025-02-06,Remediated,2025-01-29,Tiffany Myers
+F0029,V0243,Missing KYC Documentation,Low,2026-03-22,2026-05-21,Open,,Lance Mccall
+F0030,V0090,Unauthorized Subcontracting,Low,2026-04-25,2026-06-24,In Progress,,Keith Zuniga
+F0031,V0175,Conflict of Interest Flag,High,2025-04-25,2025-05-09,In Progress,,Blake Reed
+F0032,V0319,Unauthorized Subcontracting,Medium,2025-09-11,2025-10-11,Open,,Stephen Davis
+F0033,V0326,Conflict of Interest Flag,Medium,2026-06-10,2026-07-10,Remediated,2026-07-01,Stacie Griffin
+F0034,V0004,Unauthorized Subcontracting,Low,2025-07-30,2025-09-28,Open,,Michael Bell
+F0035,V0191,Pricing Discrepancy,Low,2025-03-30,2025-05-29,Remediated,2025-05-21,Amber Kim
+F0036,V0392,Data Security Gap,Low,2025-11-27,2026-01-26,Open,,Stacey Snyder
+F0037,V0333,Expired Certification,Low,2025-10-27,2025-12-26,Open,,James Poole
+F0038,V0303,Invoice Duplication Risk,Medium,2026-03-30,2026-04-29,Open,,Melissa Martin
+F0039,V0331,Data Security Gap,Medium,2025-03-04,2025-04-03,Remediated,2025-04-17,Amanda Smith
+F0040,V0167,Invoice Duplication Risk,Medium,2025-07-27,2025-08-26,Open,,Angela Jackson
+F0041,V0481,Contract Non-Compliance,Low,2025-10-24,2025-12-23,Open,,Benjamin Mcmahon
+F0042,V0148,Conflict of Interest Flag,Low,2025-03-19,2025-05-18,Remediated,2025-05-19,William Barry
+F0043,V0369,Late Delivery Pattern,Low,2025-01-30,2025-03-31,Remediated,2025-02-15,Matthew Lawson
+F0044,V0227,Late Delivery Pattern,Medium,2025-12-09,2026-01-08,Remediated,2025-12-24,Brian Harris
+F0045,V0027,Invoice Duplication Risk,High,2025-06-02,2025-06-16,Remediated,2025-06-05,Julian Frost
+F0046,V0170,Unauthorized Subcontracting,Medium,2026-03-01,2026-03-31,In Progress,,Douglas Young
+F0047,V0115,Conflict of Interest Flag,Medium,2025-02-13,2025-03-15,Remediated,2025-03-05,Joshua Henry
+F0048,V0130,Unauthorized Subcontracting,Critical,2025-02-17,2025-02-24,In Progress,,Jeffrey Phillips
+F0049,V0398,Invoice Duplication Risk,Medium,2026-06-04,2026-07-04,Remediated,2026-07-10,Karen Davis
+F0050,V0299,Late Delivery Pattern,Low,2025-06-15,2025-08-14,Remediated,2025-06-28,Edgar Miller
+F0051,V0324,Conflict of Interest Flag,High,2025-04-05,2025-04-19,Remediated,2025-05-08,James Burns
+F0052,V0197,Missing KYC Documentation,Low,2026-06-03,2026-08-02,Remediated,2026-08-12,Martin Hughes
+F0053,V0277,Late Delivery Pattern,Low,2025-10-21,2025-12-20,Open,,Jaclyn Griffin
+F0054,V0325,Missing KYC Documentation,Low,2025-07-29,2025-09-27,Remediated,2025-09-27,Dennis Hood
+F0055,V0328,Expired Certification,High,2026-03-20,2026-04-03,Remediated,2026-04-04,Paul Contreras
+F0056,V0069,Data Security Gap,Critical,2025-03-13,2025-03-20,Open,,Rhonda Gutierrez
+F0057,V0357,Contract Non-Compliance,High,2026-04-09,2026-04-23,In Progress,,Antonio Hughes
+F0058,V0465,Data Security Gap,Medium,2026-02-15,2026-03-17,Remediated,2026-03-09,Joseph Camacho
+F0059,V0319,Late Delivery Pattern,Medium,2026-01-09,2026-02-08,Remediated,2026-02-09,Cynthia Evans
+F0060,V0294,Contract Non-Compliance,Low,2025-11-08,2026-01-07,Remediated,2025-11-23,Michelle Shaw
+F0061,V0213,Conflict of Interest Flag,Medium,2026-02-11,2026-03-13,In Progress,,Megan Oliver
+F0062,V0266,Invoice Duplication Risk,Low,2025-04-09,2025-06-08,Remediated,2025-04-25,Joann Rush
+F0063,V0356,Unauthorized Subcontracting,Medium,2025-05-15,2025-06-14,In Progress,,Rhonda Martinez
+F0064,V0056,Unauthorized Subcontracting,Low,2025-11-30,2026-01-29,In Progress,,Michael Harris
+F0065,V0168,Contract Non-Compliance,Medium,2026-05-08,2026-06-07,Open,,Kurt Flores
+F0066,V0416,Contract Non-Compliance,Medium,2025-02-27,2025-03-29,Remediated,2025-04-18,Justin Arnold
+F0067,V0148,Expired Certification,Low,2025-08-08,2025-10-07,Remediated,2025-08-20,Sylvia Smith
+F0068,V0393,Conflict of Interest Flag,Medium,2026-05-04,2026-06-03,Open,,Rachael Rodriguez
+F0069,V0139,Unauthorized Subcontracting,High,2025-05-02,2025-05-16,In Progress,,Kevin Chang
+F0070,V0306,Contract Non-Compliance,Low,2025-03-24,2025-05-23,Remediated,2025-04-21,Kristine Garcia
+F0071,V0254,Expired Certification,High,2025-08-16,2025-08-30,Open,,Sheryl Humphrey
+F0072,V0238,Missing KYC Documentation,Low,2025-07-30,2026-06-07,Overdue,,Laura Kennedy
+F0073,V0067,Late Delivery Pattern,Medium,2025-05-19,2025-06-18,Open,,Charles Franklin
+F0074,V0002,Pricing Discrepancy,High,2025-11-14,2025-11-28,Remediated,2025-12-11,Steve Rivera
+F0075,V0426,Unauthorized Subcontracting,Low,2025-07-09,2025-09-07,In Progress,,John Adams
+F0076,V0349,Late Delivery Pattern,Medium,2025-10-22,2025-11-21,Open,,Robert Turner
+F0077,V0497,Data Security Gap,Critical,2025-08-11,2025-08-18,In Progress,,Shannon Cohen
+F0078,V0204,Invoice Duplication Risk,Low,2025-07-02,2025-08-31,Remediated,2025-07-27,William Ramos
+F0079,V0340,Contract Non-Compliance,Critical,2025-09-12,2025-09-19,Open,,Jason Brewer
+F0080,V0170,Expired Certification,Low,2025-05-31,2025-07-30,In Progress,,Thomas Russell
+F0081,V0138,Pricing Discrepancy,Medium,2026-01-17,2026-06-20,Overdue,,Samantha Robertson
+F0082,V0485,Contract Non-Compliance,Medium,2025-05-09,2025-06-08,Remediated,2025-06-11,Michael Powell
+F0083,V0333,Invoice Duplication Risk,Low,2026-02-17,2026-04-18,In Progress,,Alyssa Lee
+F0084,V0188,Invoice Duplication Risk,Low,2025-06-10,2025-08-09,Remediated,2025-07-22,Danielle Bryant
+F0085,V0187,Contract Non-Compliance,Low,2025-10-12,2025-12-11,Open,,Denise Colon
+F0086,V0421,Unauthorized Subcontracting,High,2026-02-02,2026-02-16,In Progress,,Thomas Maldonado
+F0087,V0336,Missing KYC Documentation,Medium,2025-07-12,2025-08-11,Remediated,2025-07-31,Kirk Thompson
+F0088,V0457,Pricing Discrepancy,Low,2026-01-09,2026-03-10,Remediated,2026-02-27,Hannah Martin
+F0089,V0024,Pricing Discrepancy,High,2025-07-25,2025-08-08,Remediated,2025-08-04,Melissa Mitchell
+F0090,V0314,Invoice Duplication Risk,Low,2025-11-02,2026-01-01,In Progress,,Scott Chan
+F0091,V0468,Contract Non-Compliance,Medium,2025-06-21,2025-07-21,Remediated,2025-08-03,Maria Byrd
+F0092,V0101,Data Security Gap,Low,2025-08-03,2025-10-02,Remediated,2025-08-10,Kayla Hancock
+F0093,V0215,Pricing Discrepancy,Medium,2026-06-19,2026-05-01,Overdue,,Carlos Thompson
+F0094,V0113,Late Delivery Pattern,Low,2025-01-12,2026-05-22,Overdue,,Robert Torres
+F0095,V0123,Invoice Duplication Risk,Medium,2026-05-20,2026-06-19,Remediated,2026-05-27,Steven York
+F0096,V0395,Pricing Discrepancy,Low,2025-12-28,2026-02-26,In Progress,,John Byrd
+F0097,V0314,Invoice Duplication Risk,Medium,2026-05-05,2026-06-04,In Progress,,Brian Hunt
+F0098,V0405,Data Security Gap,Medium,2026-06-04,2026-07-04,Remediated,2026-06-09,Sara Hoffman
+F0099,V0367,Pricing Discrepancy,Medium,2026-04-12,2026-05-12,Remediated,2026-04-28,Elizabeth Rodriguez
+F0100,V0465,Contract Non-Compliance,Medium,2025-02-24,2025-03-26,Remediated,2025-04-15,Donald Nguyen
+F0101,V0208,Unauthorized Subcontracting,Medium,2025-08-09,2025-09-08,Open,,Michael Stafford
+F0102,V0006,Missing KYC Documentation,Low,2025-08-26,2025-10-25,Remediated,2025-10-15,Joseph Allen
+F0103,V0053,Data Security Gap,Medium,2025-02-19,2025-03-21,In Progress,,Rebekah Greene
+F0104,V0212,Data Security Gap,Medium,2026-06-03,2026-07-03,In Progress,,Charles Johnson
+F0105,V0265,Missing KYC Documentation,Medium,2026-01-27,2026-02-26,Remediated,2026-03-18,Deanna Barnes MD
+F0106,V0331,Conflict of Interest Flag,Medium,2025-02-02,2025-03-04,Remediated,2025-03-02,Wendy Cabrera
+F0107,V0444,Contract Non-Compliance,High,2025-09-29,2025-10-13,Remediated,2025-10-10,Courtney Nichols
+F0108,V0104,Unauthorized Subcontracting,Low,2026-01-10,2026-03-11,Open,,Megan Romero
+F0109,V0123,Expired Certification,Low,2025-05-18,2025-07-17,In Progress,,Sherri White
+F0110,V0294,Late Delivery Pattern,Low,2025-03-22,2025-05-21,Open,,Patrick Hardy
+F0111,V0437,Pricing Discrepancy,Medium,2026-03-16,2026-04-15,Remediated,2026-03-25,Catherine Frazier
+F0112,V0196,Expired Certification,High,2025-09-23,2025-10-07,In Progress,,Courtney Walker
+F0113,V0391,Contract Non-Compliance,Medium,2025-09-01,2025-10-01,Remediated,2025-09-23,Stephen Watson
+F0114,V0427,Late Delivery Pattern,Low,2026-04-05,2026-06-04,Remediated,2026-06-17,Samuel Ruiz
+F0115,V0056,Contract Non-Compliance,Low,2026-05-13,2026-07-12,Open,,Terry Jones
+F0116,V0284,Unauthorized Subcontracting,Medium,2025-06-06,2025-07-06,Remediated,2025-06-16,Sharon James
+F0117,V0002,Unauthorized Subcontracting,High,2025-08-25,2025-09-08,Open,,Seth Hernandez
+F0118,V0477,Unauthorized Subcontracting,Low,2025-06-10,2025-08-09,Open,,William Orozco
+F0119,V0378,Pricing Discrepancy,Medium,2025-12-27,2026-01-26,Open,,Scott White
+F0120,V0012,Missing KYC Documentation,Low,2025-03-09,2025-05-08,Remediated,2025-03-19,Mr. Christopher Walters
+F0121,V0014,Invoice Duplication Risk,Low,2025-01-09,2025-03-10,Open,,Daniel Ayala
+F0122,V0481,Contract Non-Compliance,Medium,2026-03-29,2026-04-28,Remediated,2026-05-14,Katherine Gallagher
+F0123,V0136,Conflict of Interest Flag,Medium,2025-03-15,2025-04-14,In Progress,,Jeffrey Jordan
+F0124,V0291,Data Security Gap,Low,2025-12-05,2026-06-16,Overdue,,Andrew Gonzalez
+F0125,V0118,Expired Certification,High,2025-10-22,2025-11-05,Remediated,2025-11-18,Stephanie Sherman
+F0126,V0326,Contract Non-Compliance,Critical,2026-02-22,2026-05-19,Overdue,,Aaron Gross
+F0127,V0302,Unauthorized Subcontracting,Low,2025-06-30,2025-08-29,Remediated,2025-09-07,Haley Anderson
+F0128,V0209,Missing KYC Documentation,High,2025-10-30,2025-11-13,Remediated,2025-11-20,Elizabeth Brown
+F0129,V0461,Conflict of Interest Flag,High,2025-02-10,2025-02-24,Remediated,2025-03-14,Earl Luna
+F0130,V0297,Expired Certification,Critical,2026-04-14,2026-04-21,In Progress,,Jessica Mcdaniel
+F0131,V0464,Conflict of Interest Flag,Low,2025-04-19,2025-06-18,Remediated,2025-04-22,Steven Howard
+F0132,V0021,Pricing Discrepancy,Medium,2025-06-01,2025-07-01,In Progress,,Terry Burnett
+F0133,V0193,Expired Certification,Low,2025-01-20,2025-03-21,Remediated,2025-02-16,Nicholas Anderson
+F0134,V0370,Contract Non-Compliance,Critical,2025-01-23,2025-01-30,In Progress,,Caroline Richardson
+F0135,V0216,Late Delivery Pattern,Low,2026-05-26,2026-07-25,Remediated,2026-06-23,Jaime Bowman
+F0136,V0096,Invoice Duplication Risk,Medium,2026-02-25,2026-03-27,In Progress,,Linda Williams
+F0137,V0293,Pricing Discrepancy,Medium,2025-03-30,2025-04-29,Remediated,2025-05-01,Alicia Norris
+F0138,V0279,Unauthorized Subcontracting,High,2025-11-25,2025-12-09,Open,,Caleb King
+F0139,V0100,Unauthorized Subcontracting,Critical,2025-05-04,2025-05-11,Open,,Michael Smith
+F0140,V0222,Contract Non-Compliance,Low,2025-11-28,2026-01-27,Open,,Mary Nelson
+F0141,V0083,Invoice Duplication Risk,Critical,2026-04-21,2026-04-28,Remediated,2026-04-30,Jennifer Roach
+F0142,V0370,Data Security Gap,High,2026-02-07,2026-02-21,Open,,Autumn Wilson
+F0143,V0091,Missing KYC Documentation,High,2025-03-29,2025-04-12,In Progress,,Mr. Richard Decker DVM
+F0144,V0198,Unauthorized Subcontracting,Low,2025-10-11,2025-12-10,Remediated,2025-12-27,Elizabeth Williams
+F0145,V0471,Expired Certification,Critical,2026-01-26,2026-02-02,Remediated,2026-02-21,Melissa Castillo
+F0146,V0143,Data Security Gap,Low,2025-07-07,2025-09-05,Open,,Michael Meadows
+F0147,V0474,Unauthorized Subcontracting,Low,2026-03-27,2026-05-26,Remediated,2026-04-18,Brittany Davis
+F0148,V0416,Missing KYC Documentation,Medium,2026-02-07,2026-03-09,In Progress,,Nathaniel Conway
+F0149,V0268,Pricing Discrepancy,Medium,2026-05-21,2026-06-20,Remediated,2026-06-07,William Phillips
+F0150,V0464,Unauthorized Subcontracting,High,2026-01-01,2026-01-15,Remediated,2026-01-06,Robert Sawyer
+F0151,V0213,Pricing Discrepancy,High,2025-08-19,2025-09-02,Remediated,2025-09-03,Michael Simmons
+F0152,V0330,Data Security Gap,Critical,2025-04-06,2025-04-13,In Progress,,Peter Williams
+F0153,V0473,Pricing Discrepancy,Low,2025-04-23,2025-06-22,In Progress,,Carolyn Howard
+F0154,V0107,Data Security Gap,High,2025-12-11,2025-12-25,In Progress,,Debra Quinn
+F0155,V0404,Missing KYC Documentation,Medium,2025-10-22,2025-11-21,Remediated,2025-12-03,Catherine Morales
+F0156,V0175,Unauthorized Subcontracting,Low,2025-12-26,2026-02-24,Open,,James Jefferson
+F0157,V0175,Data Security Gap,Medium,2025-11-29,2025-12-29,In Progress,,Rebecca Wilson
+F0158,V0031,Data Security Gap,Medium,2025-02-20,2026-05-16,Overdue,,Thomas Webb
+F0159,V0415,Contract Non-Compliance,High,2026-03-23,2026-04-06,Open,,Catherine James
+F0160,V0380,Missing KYC Documentation,Medium,2025-10-11,2025-11-10,Open,,Shari Hobbs
+F0161,V0247,Expired Certification,Low,2025-04-17,2025-06-16,In Progress,,Mr. Stephen Alexander
+F0162,V0286,Unauthorized Subcontracting,Medium,2025-02-24,2025-03-26,Remediated,2025-03-31,Ernest Bush
+F0163,V0202,Data Security Gap,Medium,2026-06-16,2026-07-16,In Progress,,Natasha Cummings
+F0164,V0087,Invoice Duplication Risk,High,2025-06-28,2025-07-12,Open,,Mckenzie Morgan
+F0165,V0128,Late Delivery Pattern,High,2026-02-16,2026-05-10,Overdue,,Nicholas Olson
+F0166,V0446,Contract Non-Compliance,Medium,2026-06-05,2026-07-05,Remediated,2026-07-02,Janice Combs
+F0167,V0341,Contract Non-Compliance,High,2026-03-15,2026-03-29,Remediated,2026-03-18,Lisa Smith
+F0168,V0171,Unauthorized Subcontracting,High,2025-05-07,2025-05-21,Remediated,2025-06-02,Julie Simpson
+F0169,V0457,Missing KYC Documentation,Medium,2025-05-14,2025-06-13,Remediated,2025-07-03,John Allen
+F0170,V0457,Late Delivery Pattern,High,2025-08-10,2025-08-24,In Progress,,Daniel Schneider
+F0171,V0092,Contract Non-Compliance,Medium,2025-11-15,2026-05-23,Overdue,,Jeremy Berry
+F0172,V0217,Invoice Duplication Risk,Medium,2025-03-15,2025-04-14,In Progress,,Jillian Wilson
+F0173,V0014,Unauthorized Subcontracting,High,2026-01-27,2026-05-02,Overdue,,Jason Hawkins
+F0174,V0487,Late Delivery Pattern,Low,2025-01-06,2025-03-07,In Progress,,Rebecca Richmond
+F0175,V0155,Late Delivery Pattern,Medium,2026-05-16,2026-06-15,In Progress,,Jordan Clark
+F0176,V0421,Pricing Discrepancy,Low,2026-06-11,2026-08-10,Remediated,2026-07-25,Glen Bryan
+F0177,V0367,Unauthorized Subcontracting,Low,2025-06-28,2025-08-27,In Progress,,Evelyn Saunders
+F0178,V0436,Late Delivery Pattern,High,2026-04-16,2026-04-30,In Progress,,Matthew Baldwin
+F0179,V0325,Unauthorized Subcontracting,Low,2025-04-04,2026-05-10,Overdue,,Courtney Peterson
+F0180,V0445,Conflict of Interest Flag,Low,2026-05-13,2026-07-12,Remediated,2026-06-11,Dorothy Boyd

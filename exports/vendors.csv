@@ -1,0 +1,501 @@
+vendor_id,vendor_name,category,country,onboarded_date,kyc_complete,certifications,cert_expiry_date,annual_contract_value,geo_risk_weight,is_critical_supplier
+V0001,"Hill, Walker and Doyle",Raw Materials,Singapore,2022-06-09,0,SOC 2 Type II,2026-06-29,118253.5,0.15,0
+V0002,"Henderson, Johnson and Robinson",Manufacturing,India,2026-02-17,0,PCI-DSS,2026-06-29,75702.41,0.2,0
+V0003,Hoffman Ltd,Marketing,China,2025-10-16,1,SOC 2 Type II;GDPR Compliant;PCI-DSS,2026-06-29,19315.82,0.4,0
+V0004,Cole LLC,Software Licensing,United States,2026-02-16,1,ISO 9001,2026-06-29,120498.15,0.1,0
+V0005,"Henderson, Ramirez and Lewis",Marketing,Brazil,2021-07-19,1,PCI-DSS,2026-06-29,10487.53,0.3,0
+V0006,Davis Inc,Logistics,Nigeria,2024-05-09,1,None,,15460.37,0.6,0
+V0007,"Baker, Williams and Stevens",Marketing,France,2024-07-18,1,GDPR Compliant,2026-06-29,58478.36,0.1,0
+V0008,Arnold Ltd,Software Licensing,United Kingdom,2022-07-21,1,ISO 27001;SOC 2 Type II,2026-06-29,40167.77,0.1,0
+V0009,Bush Inc,IT Services,United Kingdom,2024-07-26,1,PCI-DSS;SOC 2 Type II,2026-06-29,498807.54,0.1,0
+V0010,Wyatt Inc,Marketing,India,2023-06-07,1,SOC 2 Type II,2026-06-29,305211.88,0.2,0
+V0011,Reid-Diaz,Raw Materials,Brazil,2024-09-22,1,SOC 2 Type II;ISO 9001,2026-06-29,51205.5,0.3,0
+V0012,Santiago Ltd,IT Services,France,2024-08-22,1,SOC 2 Type II,2026-06-29,37174.19,0.1,0
+V0013,"Jackson, Daniel and Martin",Software Licensing,France,2022-02-05,1,GDPR Compliant,2026-06-29,51507.24,0.1,0
+V0014,"Watts, Robinson and Nguyen",Facilities,Brazil,2024-09-19,1,ISO 27001;PCI-DSS;ISO 9001,2026-06-29,90026.13,0.3,0
+V0015,Trujillo Group,Manufacturing,China,2021-12-19,1,ISO 9001;SOC 2 Type II;PCI-DSS,2026-06-29,10456.78,0.4,0
+V0016,Gentry PLC,Logistics,United States,2023-10-08,1,PCI-DSS;ISO 27001,2026-06-29,55909.89,0.1,0
+V0017,"Porter, Wilkerson and Day",Professional Services,South Africa,2024-03-02,1,ISO 9001;SOC 2 Type II,2026-06-29,35116.73,0.35,0
+V0018,Wright PLC,Facilities,United States,2022-09-15,1,ISO 9001;GDPR Compliant,2026-06-29,227665.33,0.1,0
+V0019,"Richards, Hurst and Ross",Manufacturing,UAE,2026-01-28,1,GDPR Compliant;ISO 27001;PCI-DSS,2026-06-29,14363.19,0.3,0
+V0020,"Snyder, Campos and Callahan",Facilities,Singapore,2023-05-11,0,ISO 27001;SOC 2 Type II,2026-06-29,16674.07,0.15,0
+V0021,"Moore, Becker and Carlson",Software Licensing,UAE,2022-10-16,1,None,,349506.79,0.3,0
+V0022,Carlson-Mcdonald,Raw Materials,Russia,2024-10-06,1,None,,62887.91,0.7,0
+V0023,Frazier Inc,Logistics,Russia,2023-08-19,1,ISO 27001;PCI-DSS,2026-06-29,26141.98,0.7,0
+V0024,"Peterson, Carter and Moore",Logistics,Germany,2026-01-22,1,GDPR Compliant,2026-06-29,9763.64,0.1,0
+V0025,"Gill, Romero and Rodriguez",Software Licensing,China,2021-07-09,1,ISO 27001;PCI-DSS,2026-06-29,92299.1,0.4,0
+V0026,"Lynch, Hernandez and Farmer",Raw Materials,Russia,2024-01-12,1,SOC 2 Type II;GDPR Compliant;ISO 27001,2026-06-29,116129.22,0.7,0
+V0027,George Group,IT Services,UAE,2026-01-29,1,GDPR Compliant;SOC 2 Type II,2026-06-29,15002.28,0.3,0
+V0028,Koch-Decker,Professional Services,Singapore,2021-08-28,1,ISO 27001;PCI-DSS,2026-06-29,52977.16,0.15,0
+V0029,Allen PLC,Manufacturing,India,2024-02-09,1,ISO 27001;PCI-DSS;ISO 9001,2026-06-29,140560.03,0.2,0
+V0030,Dennis Inc,Marketing,Singapore,2022-02-28,0,None,,81409.89,0.15,0
+V0031,Keller PLC,Facilities,South Africa,2026-01-09,1,SOC 2 Type II;ISO 9001,2026-06-29,17891.49,0.35,0
+V0032,"Brennan, Henderson and Lewis",Facilities,China,2022-11-24,1,ISO 27001;GDPR Compliant;ISO 9001,2026-06-29,10834.35,0.4,0
+V0033,"Vaughn, Marquez and Ross",Software Licensing,United States,2026-01-29,1,None,,16356.83,0.1,0
+V0034,"Hayes, Wright and Brown",Logistics,France,2024-09-01,1,PCI-DSS;ISO 27001,2026-06-29,84163.88,0.1,0
+V0035,"Spencer, Chapman and Smith",Facilities,South Africa,2021-09-02,1,None,,5107.32,0.35,0
+V0036,Whitehead LLC,IT Services,Germany,2021-12-28,1,ISO 9001,2026-06-29,36905.22,0.1,0
+V0037,Ramirez Group,Facilities,United States,2022-02-04,1,ISO 27001,2026-06-29,23692.91,0.1,0
+V0038,Cummings PLC,IT Services,United States,2023-04-25,1,PCI-DSS;ISO 27001,2026-06-29,59911.9,0.1,0
+V0039,Sanchez-Kennedy,IT Services,France,2026-05-24,1,None,,10925.76,0.1,0
+V0040,Davis Group,Raw Materials,France,2024-12-14,1,ISO 27001,2026-06-29,17301.55,0.1,0
+V0041,Owens-Daniel,Raw Materials,Pakistan,2024-07-03,1,SOC 2 Type II;PCI-DSS;ISO 27001,2026-06-29,80018.57,0.55,0
+V0042,Chandler-Mcbride,IT Services,France,2022-04-30,1,ISO 9001;SOC 2 Type II,2026-06-29,74501.4,0.1,0
+V0043,Lee Group,Manufacturing,France,2022-06-03,1,GDPR Compliant;ISO 9001,2026-06-29,4346.4,0.1,0
+V0044,Ramirez and Sons,Raw Materials,Germany,2022-09-07,1,ISO 9001,2026-06-29,9191.48,0.1,0
+V0045,"Garcia, Pearson and Fernandez",Raw Materials,UAE,2022-02-18,1,ISO 27001,2026-06-29,20198.27,0.3,0
+V0046,Martin Group,Manufacturing,United Kingdom,2021-08-13,1,PCI-DSS,2026-06-29,26982.89,0.1,0
+V0047,Barrera-Martin,Facilities,United Kingdom,2025-08-02,0,ISO 9001;PCI-DSS,2026-06-29,55064.54,0.1,0
+V0048,House-Glover,Raw Materials,Brazil,2021-07-05,1,ISO 9001,2026-06-29,42199.17,0.3,0
+V0049,"Bernard, Cowan and Peters",Marketing,UAE,2023-12-02,1,ISO 9001;GDPR Compliant,2026-06-29,15779.09,0.3,0
+V0050,Phillips Inc,Facilities,Russia,2025-08-19,1,GDPR Compliant,2026-06-29,169828.53,0.7,0
+V0051,"Edwards, Williams and Woods",Manufacturing,Brazil,2026-02-07,1,SOC 2 Type II,2026-06-29,59695.78,0.3,0
+V0052,Yu Inc,Manufacturing,United States,2026-01-04,0,PCI-DSS;ISO 27001;SOC 2 Type II,2026-06-29,21690.23,0.1,0
+V0053,"Jones, Hensley and Powell",Logistics,Mexico,2023-01-27,1,SOC 2 Type II,2026-06-29,414138.66,0.35,1
+V0054,"Wheeler, Harvey and Barnes",Logistics,Germany,2026-05-03,1,GDPR Compliant;ISO 27001,2026-06-29,171315.42,0.1,0
+V0055,Donovan-Harris,Raw Materials,China,2026-04-20,1,PCI-DSS;ISO 9001,2026-06-29,88871.75,0.4,0
+V0056,Foster-Powers,Facilities,France,2024-03-01,1,GDPR Compliant;PCI-DSS;SOC 2 Type II,2026-06-29,1210358.28,0.1,1
+V0057,Hickman-Walls,Marketing,Brazil,2024-01-17,1,ISO 27001,2026-06-29,67651.88,0.3,0
+V0058,Howell-Hart,Manufacturing,United Kingdom,2021-07-27,1,None,,5124.07,0.1,0
+V0059,"Lewis, Baker and Mahoney",IT Services,India,2022-05-05,1,GDPR Compliant;ISO 27001,2026-06-29,11759.96,0.2,0
+V0060,Mitchell-Kim,Raw Materials,France,2022-01-28,1,ISO 27001,2026-06-29,148416.24,0.1,0
+V0061,"Riggs, Roman and Rice",Software Licensing,France,2026-02-10,1,PCI-DSS,2026-06-29,35027.73,0.1,0
+V0062,"Garcia, Humphrey and Baker",IT Services,India,2026-03-18,1,GDPR Compliant;SOC 2 Type II,2026-06-29,335623.98,0.2,0
+V0063,Nelson PLC,Marketing,China,2022-05-27,1,ISO 9001,2026-06-29,25796.37,0.4,0
+V0064,Watts LLC,IT Services,United Kingdom,2023-04-14,1,GDPR Compliant,2026-06-29,19895.14,0.1,0
+V0065,Whitehead-Mathis,Professional Services,Mexico,2025-10-16,0,SOC 2 Type II;ISO 27001;ISO 9001,2026-06-29,1090.47,0.35,0
+V0066,"Henderson, Hill and Smith",Facilities,Germany,2022-04-11,1,None,,234832.09,0.1,1
+V0067,Martin-Ramos,Raw Materials,United States,2022-08-09,1,ISO 27001;SOC 2 Type II,2026-06-29,7805.3,0.1,0
+V0068,"Smith, Jones and Ware",Logistics,United Kingdom,2025-02-16,1,None,,113599.51,0.1,0
+V0069,Davenport PLC,Marketing,UAE,2022-10-05,1,ISO 27001;PCI-DSS,2026-06-29,20007.54,0.3,0
+V0070,Jordan Inc,Raw Materials,United States,2026-03-11,1,None,,25598.41,0.1,0
+V0071,Nolan and Sons,Facilities,South Africa,2024-02-11,1,SOC 2 Type II;GDPR Compliant,2026-06-29,8020.57,0.35,0
+V0072,Deleon-Henson,Marketing,Singapore,2023-08-13,1,GDPR Compliant;PCI-DSS,2026-06-29,215903.18,0.15,1
+V0073,"Moore, Spears and Hancock",IT Services,France,2024-12-12,0,SOC 2 Type II;GDPR Compliant;ISO 9001,2026-06-29,53972.26,0.1,0
+V0074,White LLC,Facilities,Russia,2022-12-31,1,ISO 9001,2026-06-29,99400.59,0.7,0
+V0075,Moore-Haynes,Manufacturing,Nigeria,2024-12-29,1,SOC 2 Type II,2026-06-29,94815.81,0.6,0
+V0076,Walker-Velasquez,Manufacturing,UAE,2024-09-29,1,ISO 27001,2026-06-29,11317.06,0.3,0
+V0077,Hoover-Savage,Software Licensing,United Kingdom,2025-05-29,1,PCI-DSS,2026-06-29,43190.19,0.1,0
+V0078,Keller Group,Professional Services,Germany,2023-05-22,1,None,,16669.06,0.1,0
+V0079,Rasmussen LLC,Facilities,Germany,2024-04-13,1,PCI-DSS,2026-06-29,339769.21,0.1,1
+V0080,"Ross, Zavala and Herrera",Professional Services,France,2024-06-23,1,ISO 9001,2026-06-29,53813.65,0.1,0
+V0081,Wiley LLC,IT Services,Singapore,2021-09-22,1,None,,33792.59,0.15,0
+V0082,"Estes, Baker and Rodriguez",IT Services,Germany,2023-01-04,1,None,,5392.44,0.1,0
+V0083,"Hartman, Graham and Joyce",Manufacturing,United States,2025-03-10,1,ISO 27001;SOC 2 Type II;PCI-DSS,2026-06-29,45335.07,0.1,0
+V0084,"Lee, Williams and Graham",Logistics,Vietnam,2022-06-23,1,ISO 9001;GDPR Compliant;SOC 2 Type II,2026-06-29,42738.95,0.4,0
+V0085,"Ball, Harmon and Lambert",Logistics,South Africa,2025-11-30,1,ISO 27001,2026-06-29,14389.71,0.35,0
+V0086,Rush LLC,Facilities,United States,2024-08-03,1,GDPR Compliant;ISO 9001,2026-06-29,8399.1,0.1,0
+V0087,"Mccullough, Hunter and Estrada",Professional Services,UAE,2024-02-29,1,ISO 9001;SOC 2 Type II,2026-06-29,25170.32,0.3,0
+V0088,Terry-Spencer,Facilities,France,2024-04-07,1,None,,12381.21,0.1,0
+V0089,"Bentley, Byrd and Orr",Software Licensing,China,2023-02-15,1,GDPR Compliant,2026-06-29,262070.07,0.4,0
+V0090,Kelley-Smith,IT Services,Singapore,2026-05-02,1,PCI-DSS;ISO 9001,2026-06-29,589390.7,0.15,1
+V0091,Jordan PLC,Software Licensing,UAE,2023-12-07,1,None,,106870.5,0.3,0
+V0092,Ramos-Lewis,Marketing,France,2024-03-26,1,GDPR Compliant;ISO 27001,2026-06-29,32433.8,0.1,0
+V0093,"Miller, Robertson and Schultz",Software Licensing,UAE,2025-07-08,1,GDPR Compliant,2026-06-29,171846.56,0.3,0
+V0094,Cardenas and Sons,IT Services,United States,2024-05-05,1,None,,167892.94,0.1,0
+V0095,Hernandez Inc,Facilities,Germany,2024-02-18,1,GDPR Compliant;ISO 27001,2026-06-29,8378.19,0.1,0
+V0096,Carr-Mack,IT Services,China,2023-07-29,1,None,,18199.93,0.4,0
+V0097,"Johnston, Higgins and Cruz",Facilities,Nigeria,2025-05-13,0,ISO 27001;GDPR Compliant;PCI-DSS,2026-06-29,53603.64,0.6,0
+V0098,Douglas Inc,Manufacturing,Brazil,2024-11-21,1,GDPR Compliant;SOC 2 Type II,2026-06-29,32445.88,0.3,0
+V0099,Thompson Ltd,Facilities,South Africa,2022-05-26,1,ISO 27001;ISO 9001;SOC 2 Type II,2026-06-29,6753.19,0.35,0
+V0100,Grant Inc,Professional Services,France,2025-11-24,1,PCI-DSS,2026-06-29,61338.06,0.1,0
+V0101,Contreras-Travis,Manufacturing,China,2025-05-17,1,PCI-DSS,2026-06-29,615.09,0.4,0
+V0102,"Briggs, Mcclain and Simmons",Raw Materials,Pakistan,2024-03-10,1,GDPR Compliant,2026-06-29,411236.84,0.55,1
+V0103,Manning Group,Software Licensing,Vietnam,2026-02-25,1,ISO 27001,2026-06-29,23945.05,0.4,0
+V0104,Walton-Larsen,Raw Materials,United States,2025-04-27,1,None,,85327.27,0.1,0
+V0105,Sims-Hill,Software Licensing,Singapore,2023-11-07,1,PCI-DSS;GDPR Compliant;SOC 2 Type II,2026-06-29,447880.6,0.15,1
+V0106,Nelson LLC,Logistics,India,2022-02-24,0,ISO 9001;SOC 2 Type II,2026-06-29,96016.39,0.2,0
+V0107,Taylor and Sons,IT Services,Vietnam,2026-02-01,1,None,,12554.76,0.4,0
+V0108,"Lewis, Perry and Rivera",Raw Materials,India,2024-10-01,1,ISO 9001,2026-06-29,29598.35,0.2,0
+V0109,Clark Group,Manufacturing,Nigeria,2025-06-15,1,ISO 27001,2026-06-29,53931.66,0.6,0
+V0110,"Smith, Gilmore and Johnston",Software Licensing,Brazil,2024-10-21,1,ISO 9001,2026-06-29,27704.85,0.3,0
+V0111,Evans-Price,Facilities,France,2025-07-19,1,GDPR Compliant,2026-06-29,79333.13,0.1,0
+V0112,"Navarro, Marsh and Hurst",Facilities,Germany,2025-01-20,1,SOC 2 Type II,2026-06-29,24034.98,0.1,0
+V0113,Graham-Johnson,IT Services,Pakistan,2025-08-23,1,GDPR Compliant;ISO 9001;ISO 27001,2026-06-29,57986.31,0.55,0
+V0114,"Martin, Mcdonald and Anderson",Manufacturing,France,2024-05-08,1,ISO 9001;SOC 2 Type II,2026-06-29,52504.93,0.1,0
+V0115,Vargas-Alvarado,Facilities,Singapore,2026-01-13,1,SOC 2 Type II;ISO 27001,2026-06-29,462256.47,0.15,1
+V0116,"Patterson, Camacho and White",Raw Materials,India,2022-03-16,1,None,,141048.29,0.2,0
+V0117,Lewis-Murphy,Software Licensing,United States,2023-09-15,1,ISO 9001;PCI-DSS,2026-06-29,97919.94,0.1,0
+V0118,King-Miller,Raw Materials,Pakistan,2024-09-18,1,ISO 27001;GDPR Compliant;PCI-DSS,2026-06-29,668212.3,0.55,1
+V0119,Cooke LLC,Facilities,France,2021-08-28,1,ISO 27001;ISO 9001,2026-06-29,42175.65,0.1,0
+V0120,Harrington Ltd,Manufacturing,Singapore,2023-05-26,1,ISO 27001;SOC 2 Type II;GDPR Compliant,2026-06-29,182780.38,0.15,0
+V0121,Gonzalez Inc,IT Services,Singapore,2021-11-01,1,ISO 9001,2026-06-29,52933.65,0.15,0
+V0122,Wells Inc,Raw Materials,South Africa,2022-10-15,1,ISO 27001,2026-06-29,10107.88,0.35,0
+V0123,Lyons-Wang,Raw Materials,China,2026-04-16,1,PCI-DSS;GDPR Compliant,2026-06-29,74046.82,0.4,0
+V0124,"Stuart, Higgins and Strickland",Software Licensing,Singapore,2022-12-02,1,ISO 9001;ISO 27001,2026-06-29,62452.1,0.15,0
+V0125,Rodriguez-Johnson,Marketing,South Africa,2022-11-19,1,None,,90133.41,0.35,0
+V0126,"Odonnell, Brooks and David",IT Services,India,2024-02-23,1,GDPR Compliant;ISO 27001;ISO 9001,2026-06-29,6118.15,0.2,0
+V0127,"Vaughn, Burton and Garcia",Manufacturing,India,2023-03-07,1,PCI-DSS;SOC 2 Type II;ISO 27001,2026-06-29,189093.24,0.2,0
+V0128,Hogan PLC,IT Services,France,2024-01-21,1,PCI-DSS;ISO 27001,2026-06-29,76723.41,0.1,0
+V0129,"Patterson, Wood and Hunter",Logistics,United States,2021-11-03,1,PCI-DSS;ISO 9001,2026-06-29,8625.26,0.1,0
+V0130,Short-Garcia,IT Services,Mexico,2024-05-24,1,PCI-DSS;ISO 27001,2026-06-29,31650.21,0.35,0
+V0131,Zimmerman-Graham,Software Licensing,Mexico,2024-07-28,1,ISO 9001;GDPR Compliant,2026-06-29,50511.42,0.35,0
+V0132,"Nelson, Morton and Medina",Logistics,France,2025-12-06,1,None,,85075.84,0.1,0
+V0133,Graham-Simon,Marketing,United Kingdom,2025-08-09,1,None,,70874.26,0.1,0
+V0134,Rivas Inc,Logistics,United Kingdom,2023-10-10,1,PCI-DSS,2026-06-29,47146.15,0.1,0
+V0135,Christensen PLC,Marketing,France,2023-11-12,1,SOC 2 Type II;GDPR Compliant,2026-06-29,31569.93,0.1,0
+V0136,Snyder LLC,Professional Services,France,2024-09-18,1,ISO 9001;GDPR Compliant,2026-06-29,20720.22,0.1,0
+V0137,Lewis-Salinas,Marketing,UAE,2023-01-14,1,None,,7131.92,0.3,0
+V0138,"Haynes, Hill and Smith",Raw Materials,France,2024-05-21,1,PCI-DSS;ISO 9001,2026-06-29,69115.07,0.1,0
+V0139,Cortez Group,Professional Services,France,2023-02-12,1,PCI-DSS;ISO 9001;SOC 2 Type II,2026-06-29,6034.84,0.1,0
+V0140,Vaughn Ltd,Facilities,Singapore,2026-03-19,1,None,,122749.3,0.15,0
+V0141,Davis and Sons,Facilities,Nigeria,2025-08-31,1,PCI-DSS;ISO 27001,2026-06-29,73895.45,0.6,0
+V0142,Beck-Wood,Professional Services,India,2024-12-06,1,ISO 9001;PCI-DSS,2026-06-29,46482.75,0.2,0
+V0143,"Cooper, Barajas and Pierce",Software Licensing,Mexico,2026-03-14,1,None,,40496.85,0.35,0
+V0144,Parker-Hall,IT Services,United Kingdom,2024-06-26,1,PCI-DSS;ISO 27001,2026-06-29,99951.43,0.1,0
+V0145,Newton Ltd,Logistics,UAE,2023-02-17,1,GDPR Compliant;PCI-DSS,2026-06-29,28453.29,0.3,0
+V0146,Rodgers LLC,Manufacturing,United Kingdom,2023-01-25,0,PCI-DSS;GDPR Compliant,2026-06-29,39610.77,0.1,0
+V0147,"Campbell, Garcia and Lee",Professional Services,United Kingdom,2025-12-14,1,None,,20713.19,0.1,0
+V0148,White-Smith,Professional Services,Vietnam,2023-06-05,1,None,,35945.46,0.4,0
+V0149,Williams-Brown,Raw Materials,United Kingdom,2026-01-13,1,ISO 9001;ISO 27001,2026-06-29,14915.07,0.1,0
+V0150,"Oneill, Henry and Salas",Facilities,India,2023-12-23,1,PCI-DSS;GDPR Compliant;ISO 9001,2026-06-29,20083.83,0.2,0
+V0151,Mendoza-Peterson,Marketing,United States,2026-05-17,0,PCI-DSS,2026-06-29,27263.17,0.1,0
+V0152,Wilson-Jones,Facilities,United States,2021-12-05,1,PCI-DSS,2026-06-29,28539.18,0.1,0
+V0153,"Soto, Brown and Hernandez",Marketing,Mexico,2025-09-03,1,ISO 27001;PCI-DSS,2026-06-29,39524.37,0.35,0
+V0154,Mcknight Inc,Professional Services,United Kingdom,2026-04-12,1,SOC 2 Type II;PCI-DSS,2026-06-29,11041.68,0.1,0
+V0155,"Carlson, Montgomery and Rowe",Software Licensing,Singapore,2026-03-28,1,SOC 2 Type II;GDPR Compliant,2026-06-29,30203.95,0.15,0
+V0156,Evans-Chapman,Professional Services,UAE,2024-09-22,1,PCI-DSS;ISO 9001,2026-06-29,320975.75,0.3,0
+V0157,"Oliver, Lynch and Singh",Software Licensing,Russia,2025-02-20,1,PCI-DSS;ISO 27001,2026-06-29,25421.31,0.7,0
+V0158,Baker Inc,Software Licensing,China,2023-04-05,0,ISO 27001;PCI-DSS,2026-06-29,61104.18,0.4,0
+V0159,Arnold and Sons,Manufacturing,Singapore,2022-10-29,1,ISO 27001;GDPR Compliant,2026-06-29,305508.99,0.15,0
+V0160,Hayes-Wheeler,Professional Services,Russia,2021-07-07,1,None,,10697.89,0.7,0
+V0161,Roberts LLC,Raw Materials,India,2023-12-20,1,PCI-DSS;SOC 2 Type II;GDPR Compliant,2026-06-29,24454.57,0.2,0
+V0162,Mcdaniel LLC,Marketing,Vietnam,2025-05-09,1,None,,56315.11,0.4,0
+V0163,Stephens Ltd,Professional Services,United States,2023-03-05,1,PCI-DSS,2026-06-29,126598.82,0.1,0
+V0164,Jones and Sons,Facilities,France,2022-10-04,1,GDPR Compliant;SOC 2 Type II,2026-06-29,1108839.95,0.1,1
+V0165,"Curry, Carroll and Roberts",Facilities,Singapore,2024-02-09,1,None,,37022.55,0.15,0
+V0166,"Torres, Powell and Nelson",IT Services,United States,2022-07-20,1,GDPR Compliant;SOC 2 Type II;ISO 27001,2026-06-29,4232.58,0.1,0
+V0167,Miller-Williams,Professional Services,Singapore,2026-01-31,1,PCI-DSS;GDPR Compliant,2026-06-29,14167.23,0.15,0
+V0168,"Wright, Davis and Hayden",Manufacturing,Mexico,2025-03-02,0,SOC 2 Type II,2026-06-29,490664.66,0.35,1
+V0169,Key Ltd,Facilities,United Kingdom,2026-05-21,1,SOC 2 Type II,2026-06-29,270213.51,0.1,1
+V0170,Hines and Sons,Facilities,Brazil,2023-10-14,1,SOC 2 Type II,2026-06-29,79204.25,0.3,0
+V0171,"Ramos, Ramirez and Shea",Logistics,India,2025-06-29,1,ISO 27001,2026-06-29,96174.15,0.2,0
+V0172,Costa-Harrison,Manufacturing,Germany,2025-03-14,1,PCI-DSS,2026-06-29,8972.19,0.1,0
+V0173,Santiago-Hodge,Logistics,France,2024-12-18,1,GDPR Compliant;ISO 27001;SOC 2 Type II,2026-06-29,36528.84,0.1,0
+V0174,"Simpson, Bates and Morales",Software Licensing,United Kingdom,2024-04-18,0,ISO 9001;SOC 2 Type II;ISO 27001,2026-06-29,25242.07,0.1,0
+V0175,Gibson LLC,Raw Materials,China,2026-03-04,0,None,,1341.76,0.4,0
+V0176,Cordova Group,Software Licensing,United States,2023-08-22,1,ISO 27001,2026-06-29,7218.1,0.1,0
+V0177,"Booth, Murray and Brown",Raw Materials,India,2025-11-13,1,PCI-DSS,2026-06-29,18545.62,0.2,0
+V0178,"Avila, Garrett and Wolf",IT Services,India,2025-11-25,1,SOC 2 Type II;ISO 27001,2026-06-29,39415.45,0.2,0
+V0179,"Anderson, Roberts and Gilmore",Logistics,United Kingdom,2023-03-23,1,ISO 9001;PCI-DSS,2026-06-29,85641.05,0.1,0
+V0180,Dudley PLC,Marketing,United Kingdom,2025-08-12,1,PCI-DSS;ISO 9001,2026-06-29,10277.82,0.1,0
+V0181,Pierce-Tran,Logistics,France,2023-07-12,1,GDPR Compliant;PCI-DSS,2026-06-29,172573.31,0.1,0
+V0182,Gay Inc,IT Services,Mexico,2022-04-14,1,None,,1501.3,0.35,0
+V0183,"Collier, Jimenez and Moran",Manufacturing,United Kingdom,2025-06-01,1,PCI-DSS,2026-06-29,34146.71,0.1,0
+V0184,"Hill, Davenport and Baird",Marketing,Germany,2025-10-27,1,None,,58563.84,0.1,0
+V0185,"Thomas, Lee and Greene",Software Licensing,China,2023-07-26,1,GDPR Compliant,2026-06-29,23354.65,0.4,0
+V0186,Barton-Dickerson,Professional Services,United Kingdom,2022-08-27,1,ISO 27001,2026-06-29,62933.26,0.1,0
+V0187,"Adams, Smith and Barber",Raw Materials,Nigeria,2024-05-19,1,None,,60930.41,0.6,0
+V0188,Ryan-Reed,IT Services,United States,2025-08-28,1,ISO 9001,2026-06-29,57142.17,0.1,0
+V0189,Gibson-Morris,IT Services,United States,2026-03-09,1,SOC 2 Type II,2026-06-29,108774.39,0.1,0
+V0190,"Reyes, Chase and Jenkins",Marketing,United States,2023-02-05,1,ISO 9001;GDPR Compliant,2026-06-29,8910.0,0.1,0
+V0191,"Mcintyre, James and Mcneil",Manufacturing,United Kingdom,2024-03-13,1,PCI-DSS;ISO 9001,2026-06-29,18979.06,0.1,0
+V0192,Martinez PLC,Facilities,South Africa,2022-10-14,0,PCI-DSS,2026-06-29,20434.86,0.35,0
+V0193,Garcia-Lozano,Logistics,Vietnam,2024-04-25,1,PCI-DSS,2026-06-29,35512.2,0.4,0
+V0194,Pitts-Booker,Facilities,China,2021-08-15,1,ISO 27001,2026-06-29,102587.32,0.4,0
+V0195,Morgan-Schwartz,Manufacturing,France,2022-02-16,1,SOC 2 Type II;ISO 9001,2026-06-29,37131.62,0.1,0
+V0196,"Villarreal, James and Stewart",Professional Services,Vietnam,2022-03-05,1,ISO 9001,2026-06-29,43954.26,0.4,0
+V0197,Williamson and Sons,Logistics,Singapore,2025-08-23,0,GDPR Compliant,2026-06-29,46548.74,0.15,0
+V0198,Francis Group,Professional Services,United States,2023-12-08,1,None,,31011.76,0.1,0
+V0199,"Brennan, Wallace and Benson",IT Services,France,2022-04-30,1,SOC 2 Type II;PCI-DSS,2026-06-29,6747.8,0.1,0
+V0200,Flynn-Carter,Marketing,France,2021-09-26,1,SOC 2 Type II,2026-06-29,9314.64,0.1,0
+V0201,Sanchez Group,Facilities,South Africa,2024-09-05,1,ISO 27001,2026-06-29,7910.41,0.35,0
+V0202,Thompson PLC,Professional Services,United States,2026-04-22,1,PCI-DSS;SOC 2 Type II,2026-06-29,59174.82,0.1,0
+V0203,"Allen, Durham and Thomas",Raw Materials,Singapore,2024-09-29,1,PCI-DSS;ISO 27001,2026-06-29,59323.91,0.15,0
+V0204,Stevens-Estrada,Raw Materials,Singapore,2025-05-31,0,PCI-DSS;ISO 9001;GDPR Compliant,2026-06-29,260314.15,0.15,0
+V0205,"Payne, Jones and Landry",Professional Services,United States,2025-06-13,0,GDPR Compliant,2026-06-29,32202.92,0.1,0
+V0206,Vaughn-Bryant,Logistics,United Kingdom,2024-01-14,1,ISO 9001;GDPR Compliant,2026-06-29,9816.29,0.1,0
+V0207,Castaneda-Rodriguez,Software Licensing,United Kingdom,2024-01-23,1,SOC 2 Type II,2026-06-29,15949.12,0.1,0
+V0208,"Howard, Phillips and Lyons",Manufacturing,Brazil,2024-09-25,1,None,,270429.43,0.3,0
+V0209,Hill-Knight,Raw Materials,United Kingdom,2021-09-05,0,GDPR Compliant,2026-06-29,15863.72,0.1,0
+V0210,"Crawford, Strong and Mitchell",Software Licensing,United Kingdom,2021-11-28,1,SOC 2 Type II;ISO 9001,2026-06-29,41279.35,0.1,0
+V0211,Robinson-Lee,Marketing,Vietnam,2023-06-13,1,PCI-DSS;ISO 27001;GDPR Compliant,2026-06-29,208586.73,0.4,1
+V0212,"Massey, Fuller and Berger",Software Licensing,United Kingdom,2023-08-16,1,GDPR Compliant;ISO 27001,2026-06-30,17898.17,0.1,0
+V0213,Kramer-Johnson,Raw Materials,United States,2021-10-29,1,None,,149000.07,0.1,0
+V0214,Browning LLC,Software Licensing,Pakistan,2024-08-05,1,ISO 9001,2026-06-29,37544.19,0.55,0
+V0215,Anderson PLC,IT Services,UAE,2025-01-09,1,ISO 9001;PCI-DSS,2026-06-29,90985.37,0.3,0
+V0216,"Mcintyre, Rivas and Scott",Professional Services,Singapore,2024-08-08,1,PCI-DSS;SOC 2 Type II,2026-06-29,118844.68,0.15,0
+V0217,"Harrell, Brock and Mcdonald",Logistics,Brazil,2025-08-04,1,GDPR Compliant;SOC 2 Type II,2026-06-29,93586.06,0.3,0
+V0218,Dalton Ltd,Software Licensing,Germany,2022-02-17,1,GDPR Compliant,2026-06-29,74648.63,0.1,0
+V0219,"Diaz, Gibbs and Smith",Marketing,France,2024-11-14,1,None,,13117.81,0.1,0
+V0220,Richardson-Curry,Marketing,Pakistan,2026-01-21,1,SOC 2 Type II,2026-06-29,29951.01,0.55,0
+V0221,Carson-Bentley,Facilities,UAE,2023-09-21,1,ISO 9001;GDPR Compliant,2026-06-29,14605.45,0.3,0
+V0222,Johnson-Henson,Software Licensing,Germany,2022-05-31,1,ISO 9001,2026-06-29,158772.8,0.1,0
+V0223,"Walker, Brown and Colon",Raw Materials,United Kingdom,2026-04-08,1,ISO 9001;PCI-DSS;ISO 27001,2026-06-29,51985.54,0.1,0
+V0224,Wilson-Williams,Marketing,France,2024-01-23,1,ISO 9001;ISO 27001,2026-06-29,6926.81,0.1,0
+V0225,Wilson-Young,Facilities,South Africa,2021-10-22,1,SOC 2 Type II;PCI-DSS,2026-06-29,99058.49,0.35,0
+V0226,Chavez-Santiago,Manufacturing,United States,2026-01-24,1,SOC 2 Type II;ISO 27001,2026-06-29,81443.51,0.1,0
+V0227,"Newton, Moore and Perry",Software Licensing,India,2026-02-01,1,ISO 27001;SOC 2 Type II,2026-06-29,182321.92,0.2,0
+V0228,"Russell, Lynn and Johnson",IT Services,Russia,2022-05-02,1,ISO 9001;PCI-DSS;GDPR Compliant,2026-06-29,56522.01,0.7,0
+V0229,Wallace-Young,Facilities,France,2024-08-23,1,SOC 2 Type II;ISO 27001;PCI-DSS,2026-06-29,79957.68,0.1,0
+V0230,"Richardson, Winters and Newman",Professional Services,France,2024-07-29,0,ISO 27001;ISO 9001,2026-06-29,43950.23,0.1,0
+V0231,Lopez-Martinez,Facilities,France,2022-01-03,1,ISO 27001,2026-06-29,8916.31,0.1,0
+V0232,"Lewis, Fowler and Maddox",Professional Services,Mexico,2025-05-11,0,ISO 9001,2026-06-29,67697.32,0.35,0
+V0233,Zhang PLC,Logistics,Singapore,2021-12-03,1,GDPR Compliant,2026-06-29,37696.23,0.15,0
+V0234,"Clark, Robinson and Kane",Software Licensing,United States,2023-03-28,1,SOC 2 Type II,2026-06-29,6098.17,0.1,0
+V0235,"Smith, Garrison and Thomas",Logistics,Mexico,2024-04-14,1,PCI-DSS,2026-06-29,57433.72,0.35,0
+V0236,Lindsey-Rodriguez,Professional Services,Russia,2022-08-06,1,ISO 9001;ISO 27001,2026-06-29,24856.31,0.7,0
+V0237,Howard and Sons,Manufacturing,Russia,2021-09-17,1,ISO 9001;GDPR Compliant;PCI-DSS,2026-06-29,44689.69,0.7,0
+V0238,Baker and Sons,Logistics,Vietnam,2024-03-30,1,ISO 27001;GDPR Compliant,2026-06-29,40072.62,0.4,0
+V0239,Reese Group,Software Licensing,India,2025-01-26,1,PCI-DSS;SOC 2 Type II,2026-06-29,24204.48,0.2,0
+V0240,"Wheeler, Hayes and Walker",IT Services,United States,2025-04-21,1,GDPR Compliant;SOC 2 Type II,2026-06-29,38345.44,0.1,0
+V0241,"Turner, Schneider and Johnson",Manufacturing,Nigeria,2021-11-10,1,ISO 27001,2026-06-29,10257.09,0.6,0
+V0242,Parks-Henry,Logistics,Nigeria,2025-07-26,0,ISO 27001,2026-06-29,40042.18,0.6,0
+V0243,Morris and Sons,Raw Materials,Pakistan,2025-04-07,1,SOC 2 Type II,2026-06-29,470526.86,0.55,0
+V0244,Weber-Richards,Professional Services,France,2022-01-19,1,GDPR Compliant;PCI-DSS;ISO 27001,2026-06-29,121169.89,0.1,0
+V0245,"Schmidt, Chavez and Jacobs",Manufacturing,Singapore,2024-04-04,1,PCI-DSS,2026-06-29,27631.08,0.15,0
+V0246,"Curtis, Mack and Le",Software Licensing,France,2022-05-03,1,GDPR Compliant;PCI-DSS;ISO 9001,2026-06-29,25603.78,0.1,0
+V0247,Beasley-Gutierrez,IT Services,United Kingdom,2023-04-28,1,ISO 27001;PCI-DSS;ISO 9001,2026-06-29,16816.73,0.1,0
+V0248,Blair-Edwards,IT Services,Germany,2025-05-07,0,GDPR Compliant;ISO 27001,2026-06-29,27017.28,0.1,0
+V0249,Mckay-Mcdaniel,Marketing,United States,2024-02-24,1,PCI-DSS,2026-06-29,13300.18,0.1,0
+V0250,Decker Inc,Professional Services,Germany,2025-07-11,1,PCI-DSS;SOC 2 Type II;GDPR Compliant,2026-06-29,22611.14,0.1,0
+V0251,"Rodgers, Cain and Hawkins",Raw Materials,Singapore,2025-03-01,1,ISO 9001,2026-06-29,92559.59,0.15,0
+V0252,Santiago-Jenkins,Facilities,United Kingdom,2026-04-08,1,PCI-DSS,2026-06-29,24538.6,0.1,0
+V0253,Burke-Bell,Professional Services,France,2025-02-02,1,ISO 27001,2026-06-29,2727853.63,0.1,0
+V0254,"Lewis, Douglas and Walker",Manufacturing,Germany,2026-05-29,1,None,,30392.22,0.1,0
+V0255,"Richardson, Farmer and Andrews",Manufacturing,India,2022-05-31,1,ISO 27001;PCI-DSS,2026-06-29,1961.86,0.2,0
+V0256,"Austin, Day and Johnson",Logistics,Russia,2025-02-21,1,ISO 27001,2026-06-29,16423.89,0.7,0
+V0257,Nelson LLC,Facilities,Mexico,2023-10-07,1,PCI-DSS;SOC 2 Type II;GDPR Compliant,2026-06-29,286904.4,0.35,0
+V0258,White and Sons,Software Licensing,Brazil,2024-05-19,1,PCI-DSS,2026-06-29,179652.51,0.3,0
+V0259,Jones-Figueroa,Manufacturing,Vietnam,2026-04-23,1,ISO 9001,2026-06-29,23417.25,0.4,0
+V0260,"Moreno, Bennett and Chavez",Manufacturing,Mexico,2021-10-02,0,PCI-DSS;GDPR Compliant,2026-06-29,20573.43,0.35,0
+V0261,Griffith-Frank,Software Licensing,United Kingdom,2022-10-31,1,ISO 9001,2026-06-29,1748.42,0.1,0
+V0262,Ware and Sons,IT Services,China,2026-04-27,1,SOC 2 Type II,2026-06-29,94868.03,0.4,0
+V0263,"Williams, Miller and Ramos",Professional Services,Brazil,2022-10-31,1,None,,49649.6,0.3,0
+V0264,"Ramos, Nelson and Fischer",Facilities,India,2025-02-05,1,PCI-DSS,2026-06-29,29700.07,0.2,0
+V0265,Rodriguez-Gregory,Facilities,Brazil,2022-06-17,1,GDPR Compliant;SOC 2 Type II,2026-06-29,13780.26,0.3,0
+V0266,"Parker, Walker and Joyce",Manufacturing,France,2025-08-18,1,ISO 9001,2026-06-29,241198.11,0.1,1
+V0267,Turner and Sons,Software Licensing,Germany,2021-12-16,1,ISO 27001;PCI-DSS,2026-06-29,25869.69,0.1,0
+V0268,Murphy-Smith,Marketing,India,2022-08-29,0,GDPR Compliant,2026-06-29,317701.99,0.2,1
+V0269,James Ltd,IT Services,France,2025-02-25,0,ISO 27001;SOC 2 Type II,2026-06-29,188695.67,0.1,0
+V0270,"Whitaker, Drake and Jones",Marketing,South Africa,2023-06-13,1,PCI-DSS,2026-06-29,42043.39,0.35,0
+V0271,Smith-Morse,Manufacturing,India,2021-11-07,1,None,,142198.18,0.2,0
+V0272,Berry-Mckinney,Logistics,Nigeria,2024-02-26,1,PCI-DSS;ISO 9001,2026-06-29,13422.0,0.6,0
+V0273,Wilson-Smith,Marketing,Brazil,2025-01-16,1,None,,15218.98,0.3,0
+V0274,"Stevens, Norris and Cox",Software Licensing,Singapore,2024-04-03,1,ISO 9001;ISO 27001,2026-06-29,144627.95,0.15,0
+V0275,Graham Group,Facilities,Russia,2025-03-16,1,GDPR Compliant;SOC 2 Type II;ISO 9001,2026-06-29,49460.79,0.7,0
+V0276,Foster LLC,Professional Services,Vietnam,2025-12-12,1,None,,2503.36,0.4,0
+V0277,Cook and Sons,Professional Services,Mexico,2024-05-18,1,None,,23675.07,0.35,0
+V0278,"Wilson, Hicks and Bullock",Marketing,United States,2022-02-21,1,PCI-DSS;GDPR Compliant,2026-06-29,49020.51,0.1,0
+V0279,"Mullen, Brewer and Hernandez",Manufacturing,France,2024-06-18,0,ISO 27001,2026-06-29,113373.78,0.1,0
+V0280,Gonzalez-Morrison,Professional Services,Nigeria,2022-05-14,1,SOC 2 Type II,2026-06-29,17954.09,0.6,0
+V0281,"Snyder, Webster and Wolf",Manufacturing,India,2022-02-18,1,GDPR Compliant,2026-06-29,97414.77,0.2,0
+V0282,"Reid, Weber and Lin",Raw Materials,Mexico,2025-04-23,1,GDPR Compliant;ISO 27001,2026-06-29,8360.52,0.35,0
+V0283,Jones-Ramos,Manufacturing,France,2024-03-07,1,PCI-DSS,2026-06-29,10997.62,0.1,0
+V0284,"Brown, Romero and Collins",Software Licensing,Russia,2024-01-25,1,ISO 9001,2026-06-29,7905.09,0.7,0
+V0285,Wood LLC,Logistics,Pakistan,2025-05-03,1,ISO 9001,2026-06-29,116158.64,0.55,0
+V0286,Gilbert PLC,Software Licensing,South Africa,2022-02-22,1,SOC 2 Type II;ISO 27001;ISO 9001,2026-06-29,27079.06,0.35,0
+V0287,Carpenter-Best,Facilities,Vietnam,2024-10-05,1,None,,56848.48,0.4,0
+V0288,"Pearson, Morris and Alvarez",Raw Materials,Germany,2021-11-03,1,GDPR Compliant;ISO 27001,2026-06-29,27377.66,0.1,0
+V0289,Garcia-Nolan,Logistics,Brazil,2022-10-10,1,GDPR Compliant;ISO 27001;SOC 2 Type II,2026-06-29,398598.47,0.3,0
+V0290,"Lucas, Williams and Zimmerman",Marketing,Germany,2024-05-31,1,PCI-DSS,2026-06-29,70209.5,0.1,0
+V0291,"Mills, Moore and Watson",Manufacturing,Pakistan,2025-03-25,1,None,,12093.27,0.55,0
+V0292,Schroeder-Shelton,Logistics,China,2023-11-24,1,PCI-DSS;SOC 2 Type II,2026-06-29,25477.27,0.4,0
+V0293,"Holland, Jones and Davis",Marketing,Germany,2021-12-08,1,None,,561404.0,0.1,0
+V0294,Cummings-Douglas,IT Services,China,2024-10-12,1,GDPR Compliant,2026-06-29,32412.89,0.4,0
+V0295,Aguilar and Sons,Marketing,France,2022-10-09,0,ISO 27001;SOC 2 Type II,2026-06-29,39324.51,0.1,0
+V0296,"Hale, Myers and Larson",Raw Materials,Nigeria,2024-06-19,1,GDPR Compliant,2026-06-29,51827.94,0.6,0
+V0297,"Bennett, Conner and Li",Logistics,United Kingdom,2022-03-19,1,GDPR Compliant;PCI-DSS;SOC 2 Type II,2026-06-29,6845.27,0.1,0
+V0298,"Santiago, Romero and Smith",Software Licensing,Nigeria,2025-12-20,1,ISO 9001;PCI-DSS,2026-06-29,16941.68,0.6,0
+V0299,Peterson Group,Software Licensing,Brazil,2024-02-13,1,PCI-DSS;GDPR Compliant,2026-06-29,48901.72,0.3,0
+V0300,Moore LLC,Manufacturing,Singapore,2023-02-15,1,ISO 9001;ISO 27001,2026-06-29,63504.53,0.15,0
+V0301,"Conley, Stephenson and Johnson",Raw Materials,United Kingdom,2022-05-09,1,PCI-DSS;GDPR Compliant,2026-06-29,29392.62,0.1,0
+V0302,Harper and Sons,Marketing,China,2024-05-10,1,SOC 2 Type II;PCI-DSS,2026-06-29,35352.7,0.4,0
+V0303,"Wise, Lamb and Martin",Software Licensing,France,2022-11-15,1,ISO 27001;GDPR Compliant;PCI-DSS,2026-06-29,12044.14,0.1,0
+V0304,Diaz-Ball,Manufacturing,United Kingdom,2025-03-19,1,GDPR Compliant;PCI-DSS,2026-06-29,6584.62,0.1,0
+V0305,Goodwin-Bowers,Software Licensing,Germany,2025-04-09,1,SOC 2 Type II;GDPR Compliant,2026-06-29,69127.46,0.1,0
+V0306,"Allen, Sheppard and Mueller",IT Services,Nigeria,2023-06-26,0,None,,6810.01,0.6,0
+V0307,"Valentine, Joyce and Murray",IT Services,Vietnam,2023-02-21,1,GDPR Compliant,2026-06-29,80673.82,0.4,0
+V0308,"Rose, Burch and Montoya",Marketing,China,2023-11-21,1,GDPR Compliant;ISO 27001,2026-06-29,81274.83,0.4,0
+V0309,Davidson LLC,Manufacturing,France,2022-09-01,1,PCI-DSS,2026-06-29,13172.57,0.1,0
+V0310,"Singleton, Rosales and Mitchell",Facilities,France,2026-03-17,1,PCI-DSS;SOC 2 Type II,2026-06-29,9615.12,0.1,0
+V0311,Whitehead-Hernandez,Professional Services,Nigeria,2022-11-09,1,ISO 27001;SOC 2 Type II,2026-06-29,92739.36,0.6,0
+V0312,Velasquez LLC,Raw Materials,Germany,2025-03-19,1,GDPR Compliant;PCI-DSS,2026-06-29,4142.63,0.1,0
+V0313,Sanders LLC,Marketing,United Kingdom,2021-09-19,0,ISO 27001;GDPR Compliant,2026-06-29,38110.44,0.1,0
+V0314,Brooks Inc,Logistics,China,2023-07-01,1,ISO 27001;GDPR Compliant,2026-06-29,98068.46,0.4,0
+V0315,"Santos, Moody and Taylor",Professional Services,Vietnam,2024-03-15,1,SOC 2 Type II;GDPR Compliant;PCI-DSS,2026-06-29,20922.42,0.4,0
+V0316,"Guerra, Blake and Harrison",Facilities,Nigeria,2023-12-07,1,ISO 27001,2026-06-29,1076.23,0.6,0
+V0317,Smith and Sons,IT Services,United States,2021-07-15,1,None,,103258.71,0.1,0
+V0318,"Lynch, Henderson and Parsons",IT Services,United Kingdom,2022-10-06,1,SOC 2 Type II;GDPR Compliant,2026-06-29,117042.92,0.1,0
+V0319,Williams Group,Logistics,Germany,2023-07-07,0,PCI-DSS;GDPR Compliant,2026-06-29,29743.26,0.1,0
+V0320,Copeland Group,Raw Materials,Germany,2025-05-19,0,ISO 27001;ISO 9001,2026-06-29,23825.28,0.1,0
+V0321,Chen PLC,Professional Services,Vietnam,2026-01-19,1,None,,38894.99,0.4,0
+V0322,Patterson-Mendez,Manufacturing,China,2023-07-20,1,SOC 2 Type II;GDPR Compliant,2026-06-29,57771.22,0.4,0
+V0323,Lopez-Barnett,Professional Services,United States,2023-07-16,0,PCI-DSS;GDPR Compliant,2026-06-29,20327.7,0.1,0
+V0324,Ashley PLC,IT Services,Germany,2025-12-11,1,PCI-DSS,2026-06-29,64111.55,0.1,0
+V0325,"Smith, Marks and Williams",Raw Materials,France,2025-10-22,1,PCI-DSS,2026-06-29,48723.29,0.1,0
+V0326,Burgess-Kelly,Logistics,Germany,2024-10-12,0,SOC 2 Type II;GDPR Compliant;PCI-DSS,2026-06-29,6464.84,0.1,0
+V0327,Quinn Ltd,Marketing,Brazil,2022-01-24,1,ISO 9001;SOC 2 Type II;GDPR Compliant,2026-06-29,234294.06,0.3,1
+V0328,"Sherman, Anderson and Bell",IT Services,United States,2022-05-17,1,ISO 27001;PCI-DSS;ISO 9001,2026-06-29,9825.97,0.1,0
+V0329,Greer Ltd,Raw Materials,South Africa,2024-05-15,1,ISO 9001,2026-06-29,64516.66,0.35,0
+V0330,"White, Taylor and Baldwin",Manufacturing,China,2025-06-11,1,PCI-DSS;SOC 2 Type II,2026-06-29,17691.48,0.4,0
+V0331,Harris-Moody,Logistics,Pakistan,2025-05-20,1,PCI-DSS,2026-06-29,221896.02,0.55,0
+V0332,Robertson-Hays,Software Licensing,China,2021-11-06,1,SOC 2 Type II,2026-06-29,7102.32,0.4,0
+V0333,Johnson-Lucas,Facilities,Singapore,2026-02-10,0,SOC 2 Type II;ISO 27001,2026-06-29,17887.46,0.15,0
+V0334,Glenn LLC,Logistics,United States,2023-12-04,1,ISO 9001;ISO 27001,2026-06-29,93039.75,0.1,0
+V0335,Kim-Ross,Professional Services,Germany,2023-10-25,1,GDPR Compliant;PCI-DSS,2026-06-29,37251.85,0.1,0
+V0336,Morgan-Lopez,Manufacturing,United Kingdom,2025-03-26,1,None,,65815.33,0.1,0
+V0337,"Adams, Miller and Coleman",Professional Services,Mexico,2025-09-21,0,ISO 27001;SOC 2 Type II;PCI-DSS,2026-06-29,32792.16,0.35,0
+V0338,"Carney, White and Carter",Raw Materials,United States,2025-02-25,1,None,,386088.57,0.1,0
+V0339,Guerrero-Parker,IT Services,Germany,2022-05-13,1,ISO 27001,2026-06-29,43528.47,0.1,0
+V0340,"Wallace, West and Acosta",Software Licensing,United States,2025-02-11,1,GDPR Compliant;ISO 27001;SOC 2 Type II,2026-06-29,22877.34,0.1,0
+V0341,Hill-Whitney,Software Licensing,India,2024-06-28,1,ISO 9001;SOC 2 Type II,2026-06-29,29820.98,0.2,0
+V0342,"Walsh, Cox and Owen",IT Services,Pakistan,2021-12-24,1,PCI-DSS;SOC 2 Type II,2026-06-29,97638.5,0.55,0
+V0343,Allison Ltd,Professional Services,South Africa,2022-11-08,0,ISO 9001;ISO 27001,2026-06-29,362.44,0.35,0
+V0344,Jones Ltd,Logistics,UAE,2025-03-21,0,PCI-DSS;GDPR Compliant;ISO 9001,2026-06-29,185178.39,0.3,0
+V0345,Herring-Johnson,Professional Services,Singapore,2024-08-10,1,GDPR Compliant;ISO 27001,2026-06-29,45186.65,0.15,0
+V0346,Watson-Hines,Marketing,Germany,2022-10-18,1,GDPR Compliant,2026-06-29,197110.21,0.1,0
+V0347,"Richardson, Edwards and Ramirez",Marketing,China,2026-05-17,1,SOC 2 Type II;ISO 27001;GDPR Compliant,2026-06-29,7348.46,0.4,0
+V0348,"Lopez, Holmes and Mcintyre",Logistics,United Kingdom,2022-06-16,1,SOC 2 Type II;GDPR Compliant;PCI-DSS,2026-06-29,20865.89,0.1,0
+V0349,Padilla-Lewis,Marketing,United States,2022-06-29,1,PCI-DSS;ISO 27001,2026-06-29,2403.47,0.1,0
+V0350,Martinez Inc,Software Licensing,United Kingdom,2023-12-03,0,SOC 2 Type II,2026-06-29,6274.13,0.1,0
+V0351,Roach Group,Manufacturing,Nigeria,2025-05-03,1,None,,81282.66,0.6,0
+V0352,"Reed, Brown and Daniels",Logistics,France,2022-03-28,1,ISO 27001;ISO 9001,2026-06-29,200238.86,0.1,1
+V0353,Joseph Ltd,Raw Materials,France,2024-01-16,1,None,,32710.38,0.1,0
+V0354,Hicks-Martinez,Manufacturing,France,2022-12-21,1,None,,59513.5,0.1,0
+V0355,Tyler Inc,Raw Materials,France,2023-03-15,1,SOC 2 Type II,2026-06-29,16247.58,0.1,0
+V0356,"Armstrong, Mcdonald and Bird",Manufacturing,France,2024-07-24,1,None,,23173.6,0.1,0
+V0357,Jones Group,Marketing,Singapore,2022-08-06,1,GDPR Compliant;ISO 9001,2026-06-29,29516.5,0.15,0
+V0358,Hammond-Morrow,Software Licensing,France,2025-07-25,1,SOC 2 Type II,2026-06-29,2826.28,0.1,0
+V0359,Day-Cole,IT Services,Brazil,2022-02-13,1,SOC 2 Type II;ISO 27001;GDPR Compliant,2026-06-29,58510.38,0.3,0
+V0360,Humphrey PLC,Marketing,Vietnam,2025-11-22,1,GDPR Compliant;ISO 9001,2026-06-29,14000.49,0.4,0
+V0361,Shaw-Oneill,Manufacturing,France,2023-01-15,1,ISO 27001;ISO 9001;GDPR Compliant,2026-06-29,50246.2,0.1,0
+V0362,Torres and Sons,Manufacturing,France,2022-07-19,1,PCI-DSS;ISO 9001;ISO 27001,2026-06-29,35474.0,0.1,0
+V0363,Meza-Stone,Professional Services,Singapore,2024-03-27,0,ISO 9001,2026-06-29,116671.69,0.15,0
+V0364,Gonzalez-Huber,Raw Materials,United Kingdom,2023-11-28,1,ISO 9001;ISO 27001,2026-06-29,187158.96,0.1,0
+V0365,"Turner, Ferguson and Shaw",Software Licensing,Singapore,2023-10-29,1,SOC 2 Type II,2026-06-29,91143.49,0.15,0
+V0366,"Moore, Hopkins and Le",Raw Materials,Singapore,2022-12-04,1,PCI-DSS;ISO 9001;ISO 27001,2026-06-29,265567.59,0.15,0
+V0367,Bryan Inc,Marketing,UAE,2024-05-12,1,PCI-DSS;GDPR Compliant,2026-06-29,43651.92,0.3,0
+V0368,"Wise, Baker and Clark",Marketing,South Africa,2022-03-08,1,PCI-DSS,2026-06-29,6295.28,0.35,0
+V0369,"Fowler, Jimenez and Burton",Marketing,Mexico,2026-05-11,1,SOC 2 Type II;ISO 27001;ISO 9001,2026-06-29,147368.26,0.35,0
+V0370,Webb-Ballard,IT Services,China,2023-12-15,1,ISO 27001,2026-06-29,7588.11,0.4,0
+V0371,Jones-Brown,Raw Materials,India,2024-12-11,1,SOC 2 Type II,2026-06-29,197172.99,0.2,0
+V0372,Marshall-Peterson,Marketing,United Kingdom,2025-03-25,1,PCI-DSS;SOC 2 Type II,2026-06-29,108405.91,0.1,0
+V0373,"Flores, Travis and Reed",Raw Materials,Germany,2022-09-18,0,GDPR Compliant,2026-06-29,23337.16,0.1,0
+V0374,Robertson-Rodriguez,Facilities,United States,2024-11-18,0,SOC 2 Type II,2026-06-29,23069.05,0.1,0
+V0375,Martinez-Cole,Software Licensing,Singapore,2023-07-20,1,None,,21367.46,0.15,0
+V0376,Roberts Group,Software Licensing,United States,2022-09-09,1,ISO 9001,2026-06-29,249381.06,0.1,0
+V0377,Li PLC,Raw Materials,India,2025-01-18,1,ISO 27001,2026-06-29,33974.32,0.2,0
+V0378,Jimenez PLC,Raw Materials,Russia,2024-02-25,1,PCI-DSS,2026-06-29,24372.3,0.7,0
+V0379,Jimenez-Davis,IT Services,United Kingdom,2025-06-18,1,GDPR Compliant,2026-06-29,1424.04,0.1,0
+V0380,"Bryant, Allen and Aguilar",Raw Materials,United States,2024-11-01,1,None,,256500.77,0.1,1
+V0381,Simpson-Khan,Manufacturing,Singapore,2021-11-27,1,PCI-DSS;GDPR Compliant,2026-06-29,354178.46,0.15,0
+V0382,"Smith, Rodriguez and Anderson",Raw Materials,United States,2025-06-30,1,PCI-DSS;SOC 2 Type II,2026-06-29,8554.54,0.1,0
+V0383,"Diaz, Powell and Williams",Logistics,Germany,2023-09-28,1,None,,49593.33,0.1,0
+V0384,"Lee, Tran and Jones",Raw Materials,United States,2021-12-04,1,ISO 9001;GDPR Compliant,2026-06-29,107337.18,0.1,0
+V0385,"Ramirez, Hays and Becker",Logistics,United States,2025-10-12,1,PCI-DSS;ISO 27001,2026-06-29,317112.07,0.1,1
+V0386,Long LLC,IT Services,France,2022-07-03,1,ISO 9001;GDPR Compliant;PCI-DSS,2026-06-29,33449.31,0.1,0
+V0387,Gonzalez PLC,Manufacturing,United States,2026-03-28,1,GDPR Compliant;ISO 27001,2026-06-29,5324.1,0.1,0
+V0388,Williams and Sons,Software Licensing,India,2024-11-27,1,ISO 9001,2026-06-29,19725.6,0.2,0
+V0389,"Bryant, Obrien and Robertson",Marketing,France,2024-04-28,1,SOC 2 Type II;PCI-DSS;GDPR Compliant,2026-06-29,242587.09,0.1,0
+V0390,Martin-Ewing,Software Licensing,United Kingdom,2024-04-12,1,SOC 2 Type II,2026-06-29,172009.85,0.1,0
+V0391,Romero-Hicks,IT Services,Vietnam,2024-01-14,1,PCI-DSS;SOC 2 Type II,2026-06-29,13606.33,0.4,0
+V0392,Wells-Smith,Marketing,United States,2025-08-28,1,ISO 27001,2026-06-29,12992.93,0.1,0
+V0393,Silva-Robles,IT Services,UAE,2024-04-23,1,PCI-DSS;GDPR Compliant,2026-06-29,51261.04,0.3,0
+V0394,Baker-Rios,Professional Services,Germany,2021-09-19,1,GDPR Compliant,2026-06-29,48921.92,0.1,0
+V0395,"Williams, Castillo and Warren",Manufacturing,France,2026-05-28,1,ISO 27001;ISO 9001,2026-06-29,16022.65,0.1,0
+V0396,"Allen, Armstrong and Graves",Professional Services,UAE,2024-09-22,1,ISO 27001,2026-06-29,78641.2,0.3,0
+V0397,Alexander Group,Facilities,Singapore,2023-02-11,1,None,,2136.41,0.15,0
+V0398,"Harris, Shaw and Carr",Manufacturing,UAE,2022-10-12,1,GDPR Compliant,2026-06-29,154716.94,0.3,0
+V0399,"Taylor, Clark and Nguyen",Facilities,Russia,2025-07-03,1,GDPR Compliant;ISO 27001,2026-06-29,50888.85,0.7,0
+V0400,"Bennett, Frye and Stevens",Facilities,Germany,2025-07-24,0,None,,108135.66,0.1,0
+V0401,"Gomez, Ingram and Le",Professional Services,Germany,2026-01-10,1,ISO 27001,2026-06-29,70065.13,0.1,0
+V0402,Lee-Wright,Manufacturing,Mexico,2023-09-28,1,ISO 9001;GDPR Compliant;SOC 2 Type II,2026-06-29,28049.04,0.35,0
+V0403,David LLC,Professional Services,United Kingdom,2026-03-28,1,GDPR Compliant;ISO 9001,2026-06-29,40357.55,0.1,0
+V0404,"Bush, Stewart and Bailey",Manufacturing,Germany,2023-12-13,1,PCI-DSS;SOC 2 Type II,2026-06-29,56547.76,0.1,0
+V0405,Berry PLC,Logistics,Mexico,2023-10-26,1,ISO 9001;PCI-DSS,2026-06-29,17044.36,0.35,0
+V0406,Blevins-Ballard,Logistics,Russia,2024-09-20,1,PCI-DSS;ISO 27001,2026-06-29,33626.86,0.7,0
+V0407,Moses-Miller,Manufacturing,France,2023-12-18,1,ISO 27001,2026-06-29,96173.27,0.1,0
+V0408,Burgess-Lewis,Logistics,United Kingdom,2025-04-03,1,GDPR Compliant;SOC 2 Type II;PCI-DSS,2026-06-29,97347.86,0.1,0
+V0409,"Horton, Taylor and Gilbert",Professional Services,Russia,2026-01-27,1,ISO 27001,2026-06-29,73177.4,0.7,0
+V0410,Williams PLC,Raw Materials,Russia,2023-07-12,1,None,,72881.93,0.7,0
+V0411,"Hall, Garcia and Rivera",IT Services,China,2023-05-31,1,None,,48036.93,0.4,0
+V0412,"Townsend, Smith and Pierce",Marketing,France,2025-07-05,1,ISO 27001;PCI-DSS,2026-06-29,52898.15,0.1,0
+V0413,"Donovan, Johns and Woods",Marketing,United Kingdom,2022-11-01,0,ISO 9001;SOC 2 Type II,2026-06-29,228267.74,0.1,0
+V0414,Mitchell-Brown,IT Services,UAE,2023-03-10,1,GDPR Compliant;ISO 9001;ISO 27001,2026-06-29,36746.02,0.3,0
+V0415,"Hall, Rodgers and Jefferson",Logistics,United Kingdom,2022-04-02,1,PCI-DSS;ISO 27001,2026-06-29,45252.83,0.1,0
+V0416,Khan-Thompson,Software Licensing,Singapore,2021-10-22,0,GDPR Compliant;PCI-DSS,2026-06-29,20132.76,0.15,0
+V0417,Lopez-Curry,Facilities,UAE,2021-10-19,1,ISO 27001;ISO 9001,2026-06-29,29843.04,0.3,0
+V0418,Evans PLC,Facilities,Singapore,2023-12-15,1,ISO 27001,2026-06-29,38854.56,0.15,0
+V0419,Gibson-Davidson,Raw Materials,United States,2022-05-28,0,SOC 2 Type II,2026-06-29,187836.65,0.1,0
+V0420,Rosales Group,Manufacturing,Germany,2025-12-14,0,SOC 2 Type II,2026-06-29,81487.47,0.1,0
+V0421,Rivera Ltd,Software Licensing,India,2023-10-24,1,PCI-DSS;GDPR Compliant;ISO 27001,2026-06-29,459626.31,0.2,1
+V0422,"Scott, Lopez and Doyle",Marketing,Germany,2025-05-24,1,None,,3449.01,0.1,0
+V0423,"Todd, Thompson and Chase",Marketing,China,2024-01-01,0,ISO 27001;PCI-DSS;GDPR Compliant,2026-06-29,56342.33,0.4,0
+V0424,"Murphy, Morales and Davis",Logistics,France,2024-12-09,1,ISO 27001,2026-06-29,23571.61,0.1,0
+V0425,Boyle-Smith,Raw Materials,United Kingdom,2022-09-08,1,GDPR Compliant,2026-06-29,81774.25,0.1,0
+V0426,Griffin LLC,Professional Services,Singapore,2024-10-02,1,None,,57800.42,0.15,0
+V0427,"Sharp, Smith and Valdez",Raw Materials,United States,2024-04-18,1,PCI-DSS,2026-06-29,59037.6,0.1,0
+V0428,"Wilson, Parker and Sullivan",IT Services,Vietnam,2023-07-03,1,SOC 2 Type II;GDPR Compliant;PCI-DSS,2026-06-29,8380.99,0.4,0
+V0429,"Carrillo, Vaughn and Fowler",Manufacturing,India,2025-10-07,1,None,,204578.02,0.2,1
+V0430,"Walker, Bernard and Mendoza",Software Licensing,UAE,2024-01-01,1,PCI-DSS;ISO 27001,2026-06-29,20996.71,0.3,0
+V0431,Perry-Dunn,IT Services,United Kingdom,2025-05-12,1,PCI-DSS,2026-06-29,347616.31,0.1,1
+V0432,"Petersen, Gill and Becker",Facilities,United States,2025-06-30,1,SOC 2 Type II;ISO 27001;PCI-DSS,2026-06-29,19973.4,0.1,0
+V0433,Rice-Cox,Software Licensing,India,2022-03-10,1,GDPR Compliant;SOC 2 Type II,2026-06-29,6701.34,0.2,0
+V0434,Poole PLC,IT Services,United States,2026-04-16,1,GDPR Compliant,2026-06-29,29046.39,0.1,0
+V0435,"Hernandez, Murphy and Meyer",Manufacturing,France,2023-03-19,1,ISO 9001;SOC 2 Type II;PCI-DSS,2026-06-29,26310.87,0.1,0
+V0436,"Aguilar, Davis and Dixon",Software Licensing,France,2022-06-25,1,PCI-DSS;GDPR Compliant,2026-06-29,77566.24,0.1,0
+V0437,Palmer Group,Facilities,United States,2021-12-18,1,ISO 9001,2026-06-29,15034.75,0.1,0
+V0438,Hansen Ltd,Raw Materials,Nigeria,2026-04-16,1,None,,207687.8,0.6,0
+V0439,Scott-Smith,Marketing,Singapore,2024-02-11,1,GDPR Compliant;SOC 2 Type II;PCI-DSS,2026-06-29,88808.63,0.15,0
+V0440,Williams LLC,Professional Services,United States,2023-05-06,1,PCI-DSS;ISO 27001;SOC 2 Type II,2026-06-29,28813.47,0.1,0
+V0441,Michael Inc,Professional Services,South Africa,2022-01-13,0,PCI-DSS;GDPR Compliant,2026-06-29,156586.03,0.35,0
+V0442,Ortiz-Mack,Marketing,UAE,2025-07-04,1,ISO 27001;GDPR Compliant,2026-06-29,88609.63,0.3,0
+V0443,West-Stark,Raw Materials,Brazil,2025-01-25,1,SOC 2 Type II;ISO 9001;PCI-DSS,2026-06-29,32165.6,0.3,0
+V0444,Vega Ltd,Facilities,Singapore,2024-09-13,1,PCI-DSS;ISO 9001,2026-06-29,52576.15,0.15,0
+V0445,Valdez LLC,Marketing,UAE,2026-01-29,1,None,,7551.15,0.3,0
+V0446,"Long, Anderson and Irwin",Facilities,UAE,2022-07-02,1,PCI-DSS;GDPR Compliant,2026-06-29,1413198.12,0.3,1
+V0447,Good Group,IT Services,China,2021-07-09,0,None,,27431.03,0.4,0
+V0448,"Gray, Hall and Murray",IT Services,Germany,2026-02-14,1,ISO 9001,2026-06-29,58639.08,0.1,0
+V0449,Pineda Ltd,Manufacturing,UAE,2022-10-23,1,ISO 27001;ISO 9001,2026-06-29,79245.21,0.3,0
+V0450,"Barnes, Miranda and Stephenson",Raw Materials,Mexico,2022-06-14,1,ISO 9001,2026-06-29,57039.23,0.35,0
+V0451,Jones PLC,Software Licensing,United Kingdom,2021-08-16,1,ISO 9001;ISO 27001;GDPR Compliant,2026-06-29,71820.0,0.1,0
+V0452,"Powers, Brennan and Sanchez",Logistics,France,2021-10-11,1,ISO 9001;SOC 2 Type II,2026-06-29,20784.63,0.1,0
+V0453,Young-Robinson,Professional Services,Germany,2021-11-13,1,GDPR Compliant;ISO 27001,2026-06-29,25346.96,0.1,0
+V0454,Gordon LLC,IT Services,United States,2021-12-21,1,None,,10923.9,0.1,0
+V0455,"Johnston, Ray and Barton",Facilities,United States,2023-06-26,1,None,,446243.79,0.1,0
+V0456,Walter-Odom,Professional Services,Nigeria,2024-03-21,1,ISO 9001;SOC 2 Type II,2026-06-29,304355.36,0.6,0
+V0457,Turner-Brown,Facilities,Brazil,2025-12-04,0,SOC 2 Type II,2026-06-29,62601.71,0.3,0
+V0458,"Simmons, Simpson and Compton",Manufacturing,Germany,2022-12-25,1,PCI-DSS;ISO 27001,2026-06-29,9761.1,0.1,0
+V0459,Horton-Russell,Logistics,France,2024-09-25,1,ISO 27001;ISO 9001,2026-06-29,9915.13,0.1,0
+V0460,Webster Group,Software Licensing,United Kingdom,2024-01-16,1,PCI-DSS,2026-06-29,114611.55,0.1,0
+V0461,Mathews-Thomas,IT Services,Russia,2023-07-17,1,ISO 9001;ISO 27001,2026-06-29,328547.26,0.7,1
+V0462,"Gutierrez, Butler and Moreno",Raw Materials,Germany,2025-06-06,1,GDPR Compliant,2026-06-29,93182.63,0.1,0
+V0463,Harris-Lucas,Logistics,Singapore,2024-10-17,1,SOC 2 Type II;ISO 27001,2026-06-29,31695.41,0.15,0
+V0464,Nichols and Sons,Facilities,United States,2025-04-26,1,ISO 27001,2026-06-29,45091.76,0.1,0
+V0465,Nunez-Morrison,Logistics,United Kingdom,2021-12-06,1,ISO 9001,2026-06-29,45100.73,0.1,0
+V0466,"Ramsey, Hansen and Mendoza",Logistics,Mexico,2022-02-10,1,ISO 27001;ISO 9001,2026-06-29,90744.12,0.35,0
+V0467,Lewis and Sons,Professional Services,Germany,2024-04-28,1,ISO 27001,2026-06-29,32069.22,0.1,0
+V0468,Dominguez Ltd,Logistics,Mexico,2022-06-28,1,ISO 9001;SOC 2 Type II,2026-06-29,47460.51,0.35,0
+V0469,Arnold LLC,Facilities,United Kingdom,2023-03-26,1,ISO 9001;SOC 2 Type II;GDPR Compliant,2026-06-29,13668.01,0.1,0
+V0470,"Wong, Parker and Ward",Logistics,Germany,2024-09-23,1,ISO 27001;GDPR Compliant,2026-06-29,51437.04,0.1,0
+V0471,Lang Ltd,Logistics,Germany,2025-09-20,1,ISO 9001;PCI-DSS,2026-06-29,3272.69,0.1,0
+V0472,Wood Group,Facilities,Germany,2025-06-26,0,GDPR Compliant,2026-06-29,27258.13,0.1,0
+V0473,Figueroa Inc,Manufacturing,UAE,2021-11-18,1,ISO 9001;GDPR Compliant,2026-06-29,12381.75,0.3,0
+V0474,"Riley, Butler and Hernandez",Marketing,UAE,2023-09-17,1,ISO 9001,2026-06-29,174369.96,0.3,0
+V0475,James and Sons,Facilities,Vietnam,2024-04-18,1,None,,51719.62,0.4,0
+V0476,"Harding, Morgan and Hines",Raw Materials,France,2025-09-27,1,ISO 9001;ISO 27001,2026-06-29,301477.77,0.1,1
+V0477,"Henry, Jackson and Norton",Marketing,Germany,2025-08-25,0,PCI-DSS,2026-06-29,27536.11,0.1,0
+V0478,"Payne, White and Preston",Raw Materials,United Kingdom,2022-12-06,1,ISO 9001;SOC 2 Type II,2026-06-29,30921.46,0.1,0
+V0479,Combs Inc,Professional Services,United Kingdom,2021-12-28,0,PCI-DSS,2026-06-29,197130.02,0.1,0
+V0480,Taylor-Mccoy,Manufacturing,China,2021-11-26,1,SOC 2 Type II;GDPR Compliant;PCI-DSS,2026-06-29,16103.13,0.4,0
+V0481,Robinson Group,Facilities,India,2022-01-26,1,ISO 9001;GDPR Compliant;SOC 2 Type II,2026-06-29,54721.77,0.2,0
+V0482,"Little, Peck and Durham",Logistics,Singapore,2024-08-31,1,GDPR Compliant,2026-06-29,15266.49,0.15,0
+V0483,Patel Group,Software Licensing,Brazil,2025-08-22,1,PCI-DSS;GDPR Compliant;SOC 2 Type II,2026-06-29,106959.06,0.3,0
+V0484,"Bowen, Nichols and Mitchell",Marketing,France,2021-08-04,0,GDPR Compliant;SOC 2 Type II;ISO 27001,2026-06-29,16460.82,0.1,0
+V0485,Rodriguez Inc,Software Licensing,Singapore,2025-10-06,1,GDPR Compliant;ISO 9001,2026-06-29,93657.52,0.15,0
+V0486,Lee PLC,Professional Services,Russia,2025-12-14,1,GDPR Compliant;ISO 27001,2026-06-29,18854.55,0.7,0
+V0487,Norton-Miller,Raw Materials,United States,2023-08-22,1,SOC 2 Type II;ISO 27001;GDPR Compliant,2026-06-29,18816.68,0.1,0
+V0488,Cunningham-Branch,Facilities,Singapore,2024-12-11,1,None,,154433.93,0.15,0
+V0489,"Clayton, Miller and Frey",Professional Services,South Africa,2023-05-31,1,GDPR Compliant;PCI-DSS,2026-06-29,108550.34,0.35,0
+V0490,Gray-Tran,Logistics,Singapore,2021-10-05,1,ISO 9001,2026-06-29,374960.43,0.15,0
+V0491,Warner Inc,Logistics,United Kingdom,2021-12-20,0,PCI-DSS,2026-06-29,388510.73,0.1,0
+V0492,"Mueller, Knight and Hodge",IT Services,France,2025-09-29,1,PCI-DSS;ISO 27001;GDPR Compliant,2026-06-29,34698.74,0.1,0
+V0493,Hall Ltd,Raw Materials,France,2022-04-21,1,PCI-DSS;GDPR Compliant,2026-06-29,26843.8,0.1,0
+V0494,Williams-Jones,Logistics,Germany,2026-04-24,1,GDPR Compliant;ISO 9001,2026-06-29,78271.57,0.1,0
+V0495,"Barrett, White and Jefferson",Facilities,China,2023-11-17,1,ISO 27001;ISO 9001,2026-06-29,58714.43,0.4,0
+V0496,"Thomas, Hoover and Nicholson",Manufacturing,Germany,2021-08-16,1,PCI-DSS;ISO 27001,2026-06-29,38968.91,0.1,0
+V0497,Elliott PLC,Facilities,UAE,2022-02-23,1,SOC 2 Type II,2026-06-29,24400.48,0.3,0
+V0498,Reyes-Singh,Manufacturing,France,2024-10-20,1,ISO 9001,2026-06-29,224197.06,0.1,0
+V0499,"Mccann, Brown and Kim",Marketing,Vietnam,2022-02-27,1,PCI-DSS,2026-06-29,1553.64,0.4,0
+V0500,Jacobs-Austin,Manufacturing,Vietnam,2022-02-20,1,None,,91226.4,0.4,0

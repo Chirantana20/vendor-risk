@@ -1,0 +1,1229 @@
+check_id,vendor_id,check_date,check_type,result
+C00001,V0001,2025-10-04,KYC Refresh,Pass
+C00002,V0001,2025-05-03,Financial Health,Pass
+C00003,V0001,2026-02-19,Financial Health,Fail
+C00004,V0001,2025-03-09,KYC Refresh,Pass
+C00005,V0002,2024-07-22,Self-Assessment,Pass
+C00006,V0002,2025-11-03,Certification Review,Minor Issues
+C00007,V0002,2025-01-27,On-site Audit,Major Issues
+C00008,V0002,2026-02-27,On-site Audit,Major Issues
+C00009,V0003,2025-06-13,Self-Assessment,Pass
+C00010,V0003,2025-07-15,Self-Assessment,Pass
+C00011,V0004,2024-12-23,On-site Audit,Minor Issues
+C00012,V0004,2025-04-01,On-site Audit,Pass
+C00013,V0005,2025-09-01,Self-Assessment,Pass
+C00014,V0005,2025-04-16,On-site Audit,Minor Issues
+C00015,V0006,2025-05-30,KYC Refresh,Pass
+C00016,V0006,2024-11-20,Certification Review,Minor Issues
+C00017,V0006,2025-12-08,Certification Review,Pass
+C00018,V0007,2025-09-27,Financial Health,Pass
+C00019,V0007,2025-11-24,KYC Refresh,Major Issues
+C00020,V0008,2025-04-20,Self-Assessment,Pass
+C00021,V0008,2024-09-03,KYC Refresh,Pass
+C00022,V0008,2026-02-18,Certification Review,Pass
+C00023,V0008,2025-10-22,Self-Assessment,Pass
+C00024,V0009,2025-02-13,KYC Refresh,Major Issues
+C00025,V0009,2026-03-10,Self-Assessment,Minor Issues
+C00026,V0009,2025-01-06,Certification Review,Pass
+C00027,V0010,2026-01-03,Self-Assessment,Fail
+C00028,V0010,2024-08-25,On-site Audit,Fail
+C00029,V0010,2024-08-31,Certification Review,Pass
+C00030,V0011,2025-01-23,KYC Refresh,Minor Issues
+C00031,V0011,2024-10-26,Financial Health,Fail
+C00032,V0012,2025-04-20,KYC Refresh,Pass
+C00033,V0012,2026-01-02,On-site Audit,Major Issues
+C00034,V0012,2026-02-27,Financial Health,Major Issues
+C00035,V0012,2025-11-03,On-site Audit,Minor Issues
+C00036,V0013,2024-10-26,On-site Audit,Pass
+C00037,V0013,2026-01-24,KYC Refresh,Pass
+C00038,V0013,2025-04-27,Financial Health,Major Issues
+C00039,V0014,2025-03-01,KYC Refresh,Pass
+C00040,V0014,2025-04-05,Financial Health,Minor Issues
+C00041,V0014,2024-09-19,Self-Assessment,Pass
+C00042,V0015,2024-09-08,KYC Refresh,Pass
+C00043,V0015,2024-07-03,Self-Assessment,Pass
+C00044,V0015,2025-02-23,Certification Review,Pass
+C00045,V0015,2025-06-09,Certification Review,Major Issues
+C00046,V0016,2025-04-04,KYC Refresh,Pass
+C00047,V0016,2026-02-10,On-site Audit,Minor Issues
+C00048,V0016,2025-01-24,On-site Audit,Minor Issues
+C00049,V0016,2024-09-16,KYC Refresh,Minor Issues
+C00050,V0017,2024-10-09,Certification Review,Pass
+C00051,V0017,2024-09-04,KYC Refresh,Pass
+C00052,V0017,2024-11-21,KYC Refresh,Minor Issues
+C00053,V0018,2025-05-29,Certification Review,Pass
+C00054,V0018,2025-06-12,On-site Audit,Pass
+C00055,V0019,2025-09-04,On-site Audit,Pass
+C00056,V0019,2025-09-02,On-site Audit,Major Issues
+C00057,V0019,2025-08-01,On-site Audit,Pass
+C00058,V0020,2025-05-11,Self-Assessment,Minor Issues
+C00059,V0020,2024-09-17,On-site Audit,Minor Issues
+C00060,V0021,2024-07-19,KYC Refresh,Pass
+C00061,V0021,2024-09-06,On-site Audit,Pass
+C00062,V0021,2025-03-30,Self-Assessment,Pass
+C00063,V0022,2025-09-02,Financial Health,Minor Issues
+C00064,V0023,2024-09-09,Self-Assessment,Pass
+C00065,V0023,2025-10-05,On-site Audit,Minor Issues
+C00066,V0024,2025-10-06,On-site Audit,Pass
+C00067,V0024,2026-02-28,On-site Audit,Minor Issues
+C00068,V0025,2025-03-07,Certification Review,Major Issues
+C00069,V0026,2026-04-30,On-site Audit,Major Issues
+C00070,V0026,2025-04-24,KYC Refresh,Pass
+C00071,V0027,2024-07-08,Certification Review,Pass
+C00072,V0027,2025-02-10,Self-Assessment,Pass
+C00073,V0027,2025-05-16,On-site Audit,Pass
+C00074,V0028,2025-04-26,On-site Audit,Minor Issues
+C00075,V0029,2026-02-24,KYC Refresh,Minor Issues
+C00076,V0029,2024-09-02,On-site Audit,Fail
+C00077,V0030,2026-01-13,KYC Refresh,Pass
+C00078,V0031,2026-05-29,KYC Refresh,Pass
+C00079,V0031,2025-09-06,KYC Refresh,Pass
+C00080,V0031,2026-06-02,KYC Refresh,Pass
+C00081,V0031,2025-01-03,On-site Audit,Pass
+C00082,V0032,2025-09-16,KYC Refresh,Pass
+C00083,V0033,2025-08-07,On-site Audit,Pass
+C00084,V0033,2024-11-07,Self-Assessment,Minor Issues
+C00085,V0033,2025-12-13,On-site Audit,Minor Issues
+C00086,V0034,2025-04-20,Financial Health,Minor Issues
+C00087,V0034,2024-11-07,Self-Assessment,Pass
+C00088,V0034,2024-10-14,On-site Audit,Fail
+C00089,V0034,2025-01-23,Self-Assessment,Pass
+C00090,V0035,2025-02-17,Self-Assessment,Minor Issues
+C00091,V0035,2025-01-23,Self-Assessment,Pass
+C00092,V0035,2025-07-17,KYC Refresh,Pass
+C00093,V0035,2024-10-20,Financial Health,Major Issues
+C00094,V0036,2024-08-17,On-site Audit,Pass
+C00095,V0036,2024-11-05,Certification Review,Pass
+C00096,V0037,2025-06-01,Self-Assessment,Pass
+C00097,V0037,2025-01-29,Self-Assessment,Pass
+C00098,V0037,2025-05-22,Financial Health,Pass
+C00099,V0037,2025-02-16,Self-Assessment,Pass
+C00100,V0038,2025-07-10,On-site Audit,Fail
+C00101,V0038,2026-02-26,On-site Audit,Pass
+C00102,V0038,2024-08-27,On-site Audit,Fail
+C00103,V0038,2025-04-05,Self-Assessment,Fail
+C00104,V0039,2025-01-10,Financial Health,Fail
+C00105,V0039,2025-01-06,KYC Refresh,Pass
+C00106,V0040,2026-01-09,Certification Review,Pass
+C00107,V0040,2025-10-27,Certification Review,Pass
+C00108,V0040,2025-07-19,Certification Review,Minor Issues
+C00109,V0040,2025-10-03,Financial Health,Pass
+C00110,V0041,2025-10-20,Financial Health,Pass
+C00111,V0041,2024-11-27,KYC Refresh,Minor Issues
+C00112,V0042,2025-06-19,On-site Audit,Major Issues
+C00113,V0043,2024-09-20,Self-Assessment,Minor Issues
+C00114,V0043,2024-10-12,Certification Review,Fail
+C00115,V0043,2025-02-20,Financial Health,Pass
+C00116,V0043,2024-07-04,Financial Health,Major Issues
+C00117,V0044,2025-05-02,On-site Audit,Minor Issues
+C00118,V0044,2025-03-14,Self-Assessment,Pass
+C00119,V0044,2026-04-13,KYC Refresh,Minor Issues
+C00120,V0045,2025-10-23,On-site Audit,Pass
+C00121,V0045,2025-04-20,KYC Refresh,Minor Issues
+C00122,V0046,2026-03-15,Financial Health,Minor Issues
+C00123,V0046,2026-04-29,Financial Health,Minor Issues
+C00124,V0046,2025-03-11,Certification Review,Minor Issues
+C00125,V0047,2025-06-05,On-site Audit,Minor Issues
+C00126,V0047,2025-03-15,KYC Refresh,Fail
+C00127,V0047,2025-05-29,KYC Refresh,Minor Issues
+C00128,V0047,2026-03-24,Self-Assessment,Major Issues
+C00129,V0048,2026-03-30,Self-Assessment,Pass
+C00130,V0049,2026-04-27,On-site Audit,Minor Issues
+C00131,V0050,2025-11-16,On-site Audit,Pass
+C00132,V0051,2025-10-03,Certification Review,Pass
+C00133,V0052,2024-10-12,KYC Refresh,Minor Issues
+C00134,V0052,2025-02-17,Self-Assessment,Minor Issues
+C00135,V0052,2025-03-05,KYC Refresh,Pass
+C00136,V0053,2025-10-10,Financial Health,Minor Issues
+C00137,V0053,2025-12-21,Self-Assessment,Pass
+C00138,V0054,2024-12-02,KYC Refresh,Fail
+C00139,V0055,2025-07-06,Self-Assessment,Pass
+C00140,V0055,2025-02-28,KYC Refresh,Minor Issues
+C00141,V0056,2024-11-13,KYC Refresh,Fail
+C00142,V0056,2025-05-04,Self-Assessment,Minor Issues
+C00143,V0056,2025-03-03,Certification Review,Pass
+C00144,V0056,2025-02-10,KYC Refresh,Pass
+C00145,V0057,2026-01-20,On-site Audit,Major Issues
+C00146,V0057,2025-12-20,On-site Audit,Major Issues
+C00147,V0057,2025-11-02,On-site Audit,Pass
+C00148,V0057,2025-07-15,Financial Health,Minor Issues
+C00149,V0058,2025-09-19,KYC Refresh,Pass
+C00150,V0058,2026-02-26,On-site Audit,Pass
+C00151,V0058,2025-01-03,KYC Refresh,Pass
+C00152,V0059,2025-03-09,Certification Review,Minor Issues
+C00153,V0059,2025-04-17,Certification Review,Minor Issues
+C00154,V0059,2025-02-01,KYC Refresh,Fail
+C00155,V0060,2026-03-25,On-site Audit,Minor Issues
+C00156,V0060,2026-03-01,Self-Assessment,Pass
+C00157,V0060,2025-04-30,Certification Review,Fail
+C00158,V0061,2025-04-08,KYC Refresh,Pass
+C00159,V0061,2024-09-25,KYC Refresh,Pass
+C00160,V0061,2026-06-22,Certification Review,Pass
+C00161,V0061,2025-09-09,Self-Assessment,Pass
+C00162,V0062,2024-12-01,Certification Review,Pass
+C00163,V0062,2025-10-01,Self-Assessment,Minor Issues
+C00164,V0062,2025-08-26,Financial Health,Pass
+C00165,V0062,2024-11-15,Self-Assessment,Minor Issues
+C00166,V0063,2025-12-10,On-site Audit,Minor Issues
+C00167,V0063,2026-02-15,KYC Refresh,Pass
+C00168,V0063,2025-08-30,Self-Assessment,Minor Issues
+C00169,V0064,2024-07-19,Financial Health,Major Issues
+C00170,V0064,2026-01-14,Certification Review,Pass
+C00171,V0064,2025-06-22,Self-Assessment,Pass
+C00172,V0065,2025-12-31,Financial Health,Pass
+C00173,V0066,2024-12-08,Certification Review,Pass
+C00174,V0066,2025-06-04,Financial Health,Fail
+C00175,V0066,2026-03-10,On-site Audit,Fail
+C00176,V0066,2025-02-10,On-site Audit,Major Issues
+C00177,V0067,2026-04-05,Certification Review,Pass
+C00178,V0067,2025-12-19,Financial Health,Minor Issues
+C00179,V0067,2024-08-21,Financial Health,Pass
+C00180,V0067,2026-03-27,Certification Review,Pass
+C00181,V0068,2026-04-18,Certification Review,Pass
+C00182,V0068,2026-03-09,Financial Health,Pass
+C00183,V0068,2026-03-08,Self-Assessment,Pass
+C00184,V0069,2025-05-12,Certification Review,Pass
+C00185,V0070,2025-12-03,Self-Assessment,Pass
+C00186,V0070,2025-07-21,KYC Refresh,Pass
+C00187,V0070,2024-10-15,Certification Review,Minor Issues
+C00188,V0071,2025-11-02,Self-Assessment,Pass
+C00189,V0072,2025-02-19,Financial Health,Fail
+C00190,V0072,2025-01-02,Financial Health,Pass
+C00191,V0072,2025-01-11,KYC Refresh,Pass
+C00192,V0073,2025-11-22,Financial Health,Minor Issues
+C00193,V0073,2024-10-26,Certification Review,Pass
+C00194,V0074,2026-01-05,Financial Health,Major Issues
+C00195,V0074,2025-05-23,Financial Health,Minor Issues
+C00196,V0075,2026-03-03,Certification Review,Pass
+C00197,V0075,2025-04-17,KYC Refresh,Minor Issues
+C00198,V0076,2024-08-25,On-site Audit,Minor Issues
+C00199,V0076,2025-06-12,On-site Audit,Minor Issues
+C00200,V0077,2025-10-06,Financial Health,Fail
+C00201,V0077,2025-07-06,On-site Audit,Minor Issues
+C00202,V0077,2025-09-24,Financial Health,Pass
+C00203,V0078,2025-05-06,On-site Audit,Pass
+C00204,V0078,2025-08-18,Certification Review,Minor Issues
+C00205,V0078,2025-07-27,Self-Assessment,Minor Issues
+C00206,V0079,2026-06-16,Certification Review,Fail
+C00207,V0080,2026-06-13,Certification Review,Minor Issues
+C00208,V0080,2026-05-05,Self-Assessment,Pass
+C00209,V0081,2025-12-18,Financial Health,Pass
+C00210,V0081,2025-05-19,Certification Review,Pass
+C00211,V0082,2025-08-25,Self-Assessment,Minor Issues
+C00212,V0082,2024-07-27,On-site Audit,Pass
+C00213,V0082,2026-03-05,On-site Audit,Pass
+C00214,V0082,2025-04-04,Financial Health,Major Issues
+C00215,V0083,2025-12-25,On-site Audit,Major Issues
+C00216,V0083,2026-05-25,On-site Audit,Minor Issues
+C00217,V0083,2026-03-21,KYC Refresh,Pass
+C00218,V0084,2025-08-20,Financial Health,Pass
+C00219,V0084,2025-10-03,Financial Health,Major Issues
+C00220,V0084,2025-11-06,Financial Health,Pass
+C00221,V0085,2026-06-09,On-site Audit,Fail
+C00222,V0086,2024-09-03,KYC Refresh,Major Issues
+C00223,V0086,2024-09-21,Financial Health,Pass
+C00224,V0086,2026-02-16,On-site Audit,Major Issues
+C00225,V0087,2025-01-07,Financial Health,Fail
+C00226,V0088,2025-11-21,Certification Review,Minor Issues
+C00227,V0088,2025-11-27,On-site Audit,Fail
+C00228,V0088,2025-03-31,Certification Review,Pass
+C00229,V0089,2024-11-05,Self-Assessment,Major Issues
+C00230,V0089,2025-11-13,On-site Audit,Pass
+C00231,V0089,2025-10-17,On-site Audit,Pass
+C00232,V0089,2024-08-02,On-site Audit,Pass
+C00233,V0090,2025-09-09,KYC Refresh,Pass
+C00234,V0090,2025-11-12,Certification Review,Major Issues
+C00235,V0090,2025-12-07,Financial Health,Pass
+C00236,V0090,2025-11-13,Self-Assessment,Pass
+C00237,V0091,2025-05-05,Financial Health,Minor Issues
+C00238,V0092,2026-02-03,Self-Assessment,Fail
+C00239,V0092,2025-03-13,Certification Review,Pass
+C00240,V0093,2026-03-09,Certification Review,Minor Issues
+C00241,V0093,2025-05-29,On-site Audit,Major Issues
+C00242,V0093,2024-09-19,On-site Audit,Minor Issues
+C00243,V0093,2024-07-07,Certification Review,Pass
+C00244,V0094,2024-09-13,Certification Review,Pass
+C00245,V0094,2025-01-15,Financial Health,Major Issues
+C00246,V0094,2024-12-18,Financial Health,Fail
+C00247,V0095,2025-07-30,Financial Health,Pass
+C00248,V0096,2026-01-30,Certification Review,Minor Issues
+C00249,V0096,2025-08-05,Financial Health,Minor Issues
+C00250,V0096,2025-09-05,On-site Audit,Minor Issues
+C00251,V0097,2025-09-22,KYC Refresh,Pass
+C00252,V0098,2025-12-15,On-site Audit,Pass
+C00253,V0098,2025-09-18,On-site Audit,Pass
+C00254,V0098,2024-12-17,Financial Health,Minor Issues
+C00255,V0098,2025-06-10,Certification Review,Minor Issues
+C00256,V0099,2025-04-15,On-site Audit,Pass
+C00257,V0099,2025-04-28,Self-Assessment,Minor Issues
+C00258,V0099,2025-06-23,Financial Health,Pass
+C00259,V0100,2026-02-18,Financial Health,Pass
+C00260,V0100,2025-12-08,Self-Assessment,Fail
+C00261,V0101,2025-09-29,Financial Health,Pass
+C00262,V0101,2025-12-17,Certification Review,Pass
+C00263,V0101,2025-07-22,KYC Refresh,Minor Issues
+C00264,V0101,2024-10-24,Financial Health,Minor Issues
+C00265,V0102,2025-03-23,KYC Refresh,Minor Issues
+C00266,V0102,2024-07-18,Self-Assessment,Pass
+C00267,V0102,2025-07-08,On-site Audit,Pass
+C00268,V0102,2024-09-18,Certification Review,Major Issues
+C00269,V0103,2025-02-13,On-site Audit,Minor Issues
+C00270,V0104,2025-05-18,Financial Health,Pass
+C00271,V0104,2026-06-14,Self-Assessment,Pass
+C00272,V0104,2024-09-03,Self-Assessment,Pass
+C00273,V0105,2024-09-27,Self-Assessment,Minor Issues
+C00274,V0106,2026-04-05,Self-Assessment,Minor Issues
+C00275,V0106,2026-06-29,KYC Refresh,Pass
+C00276,V0106,2026-01-17,Certification Review,Pass
+C00277,V0106,2024-10-17,Financial Health,Minor Issues
+C00278,V0107,2025-03-26,KYC Refresh,Minor Issues
+C00279,V0107,2025-02-26,On-site Audit,Pass
+C00280,V0108,2025-03-22,Certification Review,Pass
+C00281,V0109,2025-06-17,Certification Review,Pass
+C00282,V0109,2026-02-28,On-site Audit,Pass
+C00283,V0109,2024-12-06,KYC Refresh,Pass
+C00284,V0110,2025-08-07,On-site Audit,Pass
+C00285,V0110,2025-07-09,On-site Audit,Fail
+C00286,V0111,2025-03-26,Financial Health,Major Issues
+C00287,V0111,2025-07-03,KYC Refresh,Minor Issues
+C00288,V0112,2024-09-12,Self-Assessment,Minor Issues
+C00289,V0113,2025-06-04,Financial Health,Major Issues
+C00290,V0114,2026-01-10,KYC Refresh,Minor Issues
+C00291,V0114,2025-12-22,On-site Audit,Minor Issues
+C00292,V0114,2025-06-15,On-site Audit,Minor Issues
+C00293,V0115,2025-03-03,On-site Audit,Fail
+C00294,V0115,2024-08-20,Certification Review,Pass
+C00295,V0115,2025-02-17,Self-Assessment,Pass
+C00296,V0116,2024-08-02,KYC Refresh,Minor Issues
+C00297,V0117,2026-03-20,On-site Audit,Major Issues
+C00298,V0118,2026-01-02,Self-Assessment,Pass
+C00299,V0118,2024-09-26,Financial Health,Pass
+C00300,V0118,2024-07-16,Financial Health,Pass
+C00301,V0119,2026-04-19,On-site Audit,Pass
+C00302,V0119,2025-03-22,KYC Refresh,Pass
+C00303,V0119,2025-11-14,Financial Health,Pass
+C00304,V0119,2024-09-21,KYC Refresh,Minor Issues
+C00305,V0120,2025-12-06,Self-Assessment,Pass
+C00306,V0120,2026-03-12,KYC Refresh,Pass
+C00307,V0121,2024-11-03,Financial Health,Pass
+C00308,V0121,2026-06-21,On-site Audit,Major Issues
+C00309,V0121,2026-01-25,Self-Assessment,Major Issues
+C00310,V0122,2025-01-04,Self-Assessment,Major Issues
+C00311,V0123,2025-08-03,Financial Health,Minor Issues
+C00312,V0123,2024-11-11,Financial Health,Pass
+C00313,V0123,2025-08-31,Certification Review,Pass
+C00314,V0124,2024-10-31,Financial Health,Pass
+C00315,V0125,2025-03-13,On-site Audit,Pass
+C00316,V0125,2025-09-06,Self-Assessment,Pass
+C00317,V0125,2025-05-26,Self-Assessment,Pass
+C00318,V0125,2025-06-22,KYC Refresh,Pass
+C00319,V0126,2024-12-26,KYC Refresh,Pass
+C00320,V0127,2026-03-10,Financial Health,Minor Issues
+C00321,V0127,2025-05-09,KYC Refresh,Minor Issues
+C00322,V0127,2025-10-31,Financial Health,Pass
+C00323,V0127,2024-11-19,Self-Assessment,Pass
+C00324,V0128,2024-11-20,On-site Audit,Pass
+C00325,V0129,2025-11-08,Self-Assessment,Pass
+C00326,V0130,2025-11-21,Certification Review,Major Issues
+C00327,V0131,2025-05-30,Certification Review,Pass
+C00328,V0132,2025-05-02,KYC Refresh,Minor Issues
+C00329,V0132,2024-07-21,Financial Health,Major Issues
+C00330,V0132,2026-01-22,KYC Refresh,Major Issues
+C00331,V0132,2025-10-18,On-site Audit,Fail
+C00332,V0133,2026-05-15,Financial Health,Major Issues
+C00333,V0133,2024-11-29,Certification Review,Pass
+C00334,V0134,2025-06-13,Self-Assessment,Pass
+C00335,V0134,2025-10-01,KYC Refresh,Fail
+C00336,V0134,2025-05-28,Financial Health,Pass
+C00337,V0135,2025-04-27,Financial Health,Pass
+C00338,V0135,2024-07-02,KYC Refresh,Pass
+C00339,V0135,2025-12-28,Financial Health,Fail
+C00340,V0136,2024-12-12,KYC Refresh,Pass
+C00341,V0136,2024-12-05,Self-Assessment,Pass
+C00342,V0136,2025-01-31,KYC Refresh,Pass
+C00343,V0136,2026-02-03,KYC Refresh,Pass
+C00344,V0137,2025-12-27,Certification Review,Minor Issues
+C00345,V0137,2026-03-19,Financial Health,Pass
+C00346,V0137,2026-03-09,KYC Refresh,Minor Issues
+C00347,V0138,2024-08-16,KYC Refresh,Pass
+C00348,V0138,2025-09-20,Self-Assessment,Major Issues
+C00349,V0138,2024-09-16,Financial Health,Major Issues
+C00350,V0138,2026-03-11,KYC Refresh,Pass
+C00351,V0139,2026-05-07,Financial Health,Pass
+C00352,V0139,2025-08-20,On-site Audit,Pass
+C00353,V0139,2024-11-21,Financial Health,Pass
+C00354,V0139,2025-04-09,KYC Refresh,Pass
+C00355,V0140,2025-03-09,Financial Health,Minor Issues
+C00356,V0140,2024-11-29,Self-Assessment,Minor Issues
+C00357,V0141,2025-06-19,Financial Health,Pass
+C00358,V0141,2024-09-25,KYC Refresh,Pass
+C00359,V0141,2025-01-18,Self-Assessment,Minor Issues
+C00360,V0142,2025-12-01,KYC Refresh,Minor Issues
+C00361,V0143,2026-04-30,Financial Health,Pass
+C00362,V0143,2025-07-14,On-site Audit,Minor Issues
+C00363,V0143,2025-08-12,KYC Refresh,Pass
+C00364,V0144,2025-11-07,Financial Health,Pass
+C00365,V0144,2025-02-27,Certification Review,Minor Issues
+C00366,V0144,2025-10-05,KYC Refresh,Pass
+C00367,V0145,2025-04-26,Certification Review,Pass
+C00368,V0146,2025-10-16,Certification Review,Major Issues
+C00369,V0146,2025-04-29,Certification Review,Pass
+C00370,V0146,2025-09-27,Certification Review,Pass
+C00371,V0147,2024-09-25,Self-Assessment,Pass
+C00372,V0147,2025-03-26,Self-Assessment,Pass
+C00373,V0148,2025-03-29,Financial Health,Pass
+C00374,V0149,2026-04-16,Certification Review,Pass
+C00375,V0150,2025-06-19,Self-Assessment,Minor Issues
+C00376,V0151,2025-10-21,KYC Refresh,Pass
+C00377,V0152,2024-11-10,Certification Review,Major Issues
+C00378,V0153,2026-03-23,Certification Review,Pass
+C00379,V0154,2025-12-04,Self-Assessment,Major Issues
+C00380,V0155,2025-12-29,On-site Audit,Pass
+C00381,V0155,2026-03-12,Certification Review,Pass
+C00382,V0156,2025-02-15,KYC Refresh,Pass
+C00383,V0157,2026-06-12,Financial Health,Minor Issues
+C00384,V0157,2025-10-19,Self-Assessment,Minor Issues
+C00385,V0157,2025-09-30,Certification Review,Minor Issues
+C00386,V0157,2024-09-02,Self-Assessment,Fail
+C00387,V0158,2025-12-03,Self-Assessment,Pass
+C00388,V0158,2024-10-11,Self-Assessment,Major Issues
+C00389,V0158,2025-02-27,On-site Audit,Major Issues
+C00390,V0158,2024-09-28,Financial Health,Minor Issues
+C00391,V0159,2024-12-31,KYC Refresh,Pass
+C00392,V0160,2025-02-21,Self-Assessment,Major Issues
+C00393,V0160,2024-09-27,KYC Refresh,Fail
+C00394,V0160,2024-11-18,Financial Health,Major Issues
+C00395,V0161,2025-04-14,Certification Review,Minor Issues
+C00396,V0161,2025-12-19,On-site Audit,Pass
+C00397,V0161,2024-10-16,Certification Review,Pass
+C00398,V0161,2025-07-30,Certification Review,Pass
+C00399,V0162,2025-04-26,On-site Audit,Minor Issues
+C00400,V0162,2025-05-19,Self-Assessment,Pass
+C00401,V0163,2025-10-05,Certification Review,Fail
+C00402,V0163,2024-10-14,Certification Review,Pass
+C00403,V0163,2025-09-18,Certification Review,Pass
+C00404,V0163,2025-04-23,Self-Assessment,Pass
+C00405,V0164,2025-05-23,Self-Assessment,Pass
+C00406,V0165,2024-11-20,Self-Assessment,Fail
+C00407,V0166,2025-07-12,Financial Health,Pass
+C00408,V0166,2025-11-04,On-site Audit,Fail
+C00409,V0166,2025-08-20,Certification Review,Major Issues
+C00410,V0167,2025-12-19,Financial Health,Major Issues
+C00411,V0167,2026-06-12,Financial Health,Minor Issues
+C00412,V0168,2025-11-12,KYC Refresh,Minor Issues
+C00413,V0168,2026-06-21,Self-Assessment,Fail
+C00414,V0168,2024-11-10,Self-Assessment,Pass
+C00415,V0168,2025-09-03,Certification Review,Fail
+C00416,V0169,2024-11-05,Self-Assessment,Pass
+C00417,V0169,2025-07-14,On-site Audit,Pass
+C00418,V0169,2025-02-08,On-site Audit,Minor Issues
+C00419,V0170,2024-10-15,Financial Health,Pass
+C00420,V0171,2024-11-21,Certification Review,Pass
+C00421,V0171,2025-02-28,KYC Refresh,Pass
+C00422,V0171,2026-04-13,KYC Refresh,Minor Issues
+C00423,V0171,2025-06-14,Certification Review,Pass
+C00424,V0172,2025-10-23,Financial Health,Pass
+C00425,V0172,2024-08-09,KYC Refresh,Minor Issues
+C00426,V0173,2026-05-02,KYC Refresh,Pass
+C00427,V0173,2025-04-03,Financial Health,Pass
+C00428,V0174,2024-07-06,Self-Assessment,Pass
+C00429,V0174,2025-07-10,KYC Refresh,Pass
+C00430,V0175,2024-10-13,KYC Refresh,Pass
+C00431,V0175,2024-11-27,Financial Health,Pass
+C00432,V0175,2026-03-24,On-site Audit,Fail
+C00433,V0175,2025-04-23,Certification Review,Minor Issues
+C00434,V0176,2025-09-08,Self-Assessment,Minor Issues
+C00435,V0176,2025-07-26,Financial Health,Pass
+C00436,V0176,2025-11-18,Financial Health,Minor Issues
+C00437,V0177,2025-07-18,KYC Refresh,Minor Issues
+C00438,V0177,2025-05-12,Self-Assessment,Pass
+C00439,V0177,2025-12-12,Self-Assessment,Pass
+C00440,V0177,2025-07-15,Certification Review,Pass
+C00441,V0178,2025-05-17,Financial Health,Fail
+C00442,V0178,2026-01-01,On-site Audit,Major Issues
+C00443,V0178,2026-04-12,Certification Review,Pass
+C00444,V0178,2025-06-08,On-site Audit,Minor Issues
+C00445,V0179,2025-07-13,Self-Assessment,Pass
+C00446,V0179,2024-11-05,On-site Audit,Major Issues
+C00447,V0179,2024-09-01,KYC Refresh,Pass
+C00448,V0179,2025-09-11,Certification Review,Minor Issues
+C00449,V0180,2024-07-22,KYC Refresh,Minor Issues
+C00450,V0181,2026-03-09,Self-Assessment,Pass
+C00451,V0181,2026-02-10,Financial Health,Minor Issues
+C00452,V0181,2024-12-17,KYC Refresh,Pass
+C00453,V0182,2025-02-10,KYC Refresh,Pass
+C00454,V0182,2024-07-24,Self-Assessment,Pass
+C00455,V0183,2025-01-28,KYC Refresh,Minor Issues
+C00456,V0183,2024-12-20,Self-Assessment,Pass
+C00457,V0183,2025-08-20,Financial Health,Minor Issues
+C00458,V0184,2025-02-08,Financial Health,Minor Issues
+C00459,V0184,2024-11-06,Financial Health,Pass
+C00460,V0184,2026-02-25,Self-Assessment,Fail
+C00461,V0185,2025-06-19,Self-Assessment,Pass
+C00462,V0185,2025-09-11,KYC Refresh,Pass
+C00463,V0185,2026-01-26,Self-Assessment,Major Issues
+C00464,V0185,2026-02-19,Self-Assessment,Minor Issues
+C00465,V0186,2026-02-13,Financial Health,Minor Issues
+C00466,V0187,2025-07-18,KYC Refresh,Major Issues
+C00467,V0187,2025-08-29,Certification Review,Major Issues
+C00468,V0188,2025-07-30,On-site Audit,Pass
+C00469,V0188,2024-09-24,KYC Refresh,Pass
+C00470,V0189,2025-09-16,Financial Health,Major Issues
+C00471,V0189,2024-09-25,Self-Assessment,Minor Issues
+C00472,V0190,2025-01-23,On-site Audit,Pass
+C00473,V0190,2026-02-21,On-site Audit,Minor Issues
+C00474,V0190,2025-08-24,Self-Assessment,Minor Issues
+C00475,V0191,2026-03-30,KYC Refresh,Minor Issues
+C00476,V0191,2025-04-09,KYC Refresh,Minor Issues
+C00477,V0192,2025-08-24,On-site Audit,Pass
+C00478,V0193,2026-03-29,KYC Refresh,Minor Issues
+C00479,V0194,2026-02-06,Certification Review,Fail
+C00480,V0194,2024-07-31,Certification Review,Fail
+C00481,V0194,2026-02-09,Certification Review,Pass
+C00482,V0195,2026-01-08,Self-Assessment,Major Issues
+C00483,V0196,2025-06-06,Financial Health,Major Issues
+C00484,V0197,2025-08-27,On-site Audit,Minor Issues
+C00485,V0197,2024-12-15,Certification Review,Pass
+C00486,V0197,2025-05-25,Certification Review,Pass
+C00487,V0197,2024-09-16,Certification Review,Minor Issues
+C00488,V0198,2026-01-21,Self-Assessment,Pass
+C00489,V0198,2026-04-04,On-site Audit,Pass
+C00490,V0198,2025-11-18,Self-Assessment,Minor Issues
+C00491,V0198,2026-02-02,On-site Audit,Pass
+C00492,V0199,2025-01-07,On-site Audit,Pass
+C00493,V0199,2025-02-15,Certification Review,Pass
+C00494,V0200,2026-05-09,KYC Refresh,Pass
+C00495,V0200,2024-07-24,Self-Assessment,Pass
+C00496,V0201,2025-06-13,KYC Refresh,Minor Issues
+C00497,V0202,2025-01-19,Certification Review,Pass
+C00498,V0202,2025-03-26,KYC Refresh,Minor Issues
+C00499,V0202,2026-04-29,Certification Review,Major Issues
+C00500,V0203,2026-03-25,Certification Review,Minor Issues
+C00501,V0204,2024-09-04,On-site Audit,Pass
+C00502,V0204,2025-06-05,Financial Health,Pass
+C00503,V0205,2026-05-02,Self-Assessment,Fail
+C00504,V0205,2024-09-28,Self-Assessment,Pass
+C00505,V0206,2026-02-21,On-site Audit,Minor Issues
+C00506,V0207,2026-03-21,KYC Refresh,Fail
+C00507,V0208,2024-12-30,KYC Refresh,Pass
+C00508,V0209,2024-12-09,Financial Health,Minor Issues
+C00509,V0209,2026-03-20,On-site Audit,Major Issues
+C00510,V0210,2026-01-22,Financial Health,Pass
+C00511,V0210,2025-09-28,Self-Assessment,Pass
+C00512,V0211,2025-12-16,KYC Refresh,Pass
+C00513,V0212,2025-03-28,KYC Refresh,Pass
+C00514,V0212,2026-04-28,On-site Audit,Pass
+C00515,V0212,2026-01-02,On-site Audit,Minor Issues
+C00516,V0213,2025-10-16,KYC Refresh,Pass
+C00517,V0213,2025-11-02,Certification Review,Pass
+C00518,V0214,2025-05-27,Financial Health,Pass
+C00519,V0214,2024-11-04,Financial Health,Pass
+C00520,V0214,2025-10-20,Self-Assessment,Pass
+C00521,V0214,2024-10-15,Financial Health,Pass
+C00522,V0215,2026-02-28,Certification Review,Pass
+C00523,V0215,2024-12-06,Certification Review,Major Issues
+C00524,V0215,2026-03-22,On-site Audit,Fail
+C00525,V0216,2024-12-06,Financial Health,Pass
+C00526,V0216,2026-03-16,KYC Refresh,Pass
+C00527,V0216,2024-08-14,Self-Assessment,Minor Issues
+C00528,V0217,2025-09-14,On-site Audit,Minor Issues
+C00529,V0217,2025-03-28,On-site Audit,Pass
+C00530,V0217,2025-08-16,KYC Refresh,Minor Issues
+C00531,V0218,2025-02-02,Self-Assessment,Pass
+C00532,V0219,2025-10-05,Financial Health,Pass
+C00533,V0219,2025-08-21,Certification Review,Pass
+C00534,V0219,2024-11-06,Certification Review,Pass
+C00535,V0220,2025-03-07,KYC Refresh,Pass
+C00536,V0220,2025-12-27,On-site Audit,Pass
+C00537,V0220,2025-02-11,Self-Assessment,Pass
+C00538,V0220,2025-02-08,Certification Review,Fail
+C00539,V0221,2025-09-16,Self-Assessment,Pass
+C00540,V0222,2025-01-22,Financial Health,Minor Issues
+C00541,V0223,2026-04-26,On-site Audit,Pass
+C00542,V0223,2025-08-02,Financial Health,Major Issues
+C00543,V0223,2026-05-29,Financial Health,Minor Issues
+C00544,V0224,2025-12-08,Financial Health,Pass
+C00545,V0224,2026-03-24,On-site Audit,Pass
+C00546,V0224,2024-09-10,Self-Assessment,Pass
+C00547,V0224,2024-10-12,On-site Audit,Pass
+C00548,V0225,2026-02-01,Self-Assessment,Pass
+C00549,V0225,2026-03-01,KYC Refresh,Pass
+C00550,V0226,2025-05-14,Financial Health,Pass
+C00551,V0227,2026-06-12,Financial Health,Minor Issues
+C00552,V0227,2024-08-14,KYC Refresh,Pass
+C00553,V0228,2025-01-30,Financial Health,Pass
+C00554,V0228,2026-05-03,Self-Assessment,Pass
+C00555,V0228,2025-11-20,Financial Health,Minor Issues
+C00556,V0229,2024-10-05,KYC Refresh,Minor Issues
+C00557,V0229,2025-12-25,On-site Audit,Pass
+C00558,V0229,2026-05-02,Self-Assessment,Pass
+C00559,V0230,2024-10-10,Financial Health,Minor Issues
+C00560,V0230,2025-01-08,On-site Audit,Minor Issues
+C00561,V0231,2024-10-20,Financial Health,Pass
+C00562,V0232,2026-01-02,Financial Health,Minor Issues
+C00563,V0232,2025-03-06,Self-Assessment,Minor Issues
+C00564,V0232,2026-04-03,KYC Refresh,Pass
+C00565,V0232,2025-01-07,Financial Health,Pass
+C00566,V0233,2026-02-10,Self-Assessment,Pass
+C00567,V0233,2026-04-15,KYC Refresh,Pass
+C00568,V0234,2025-12-06,On-site Audit,Pass
+C00569,V0234,2025-04-30,On-site Audit,Pass
+C00570,V0235,2025-07-14,Financial Health,Minor Issues
+C00571,V0236,2024-10-17,On-site Audit,Pass
+C00572,V0236,2025-09-20,On-site Audit,Minor Issues
+C00573,V0236,2025-11-02,Financial Health,Pass
+C00574,V0237,2025-01-23,KYC Refresh,Pass
+C00575,V0237,2025-10-29,On-site Audit,Pass
+C00576,V0237,2025-05-16,Certification Review,Major Issues
+C00577,V0237,2025-04-16,KYC Refresh,Pass
+C00578,V0238,2025-06-15,KYC Refresh,Pass
+C00579,V0239,2024-08-26,On-site Audit,Minor Issues
+C00580,V0239,2025-11-03,KYC Refresh,Pass
+C00581,V0240,2026-03-08,Financial Health,Pass
+C00582,V0240,2026-05-13,Financial Health,Pass
+C00583,V0241,2026-02-16,Self-Assessment,Major Issues
+C00584,V0241,2024-09-09,KYC Refresh,Pass
+C00585,V0241,2025-05-07,Financial Health,Minor Issues
+C00586,V0242,2025-08-03,Self-Assessment,Minor Issues
+C00587,V0242,2026-02-01,On-site Audit,Pass
+C00588,V0243,2025-01-31,Certification Review,Pass
+C00589,V0243,2025-12-20,On-site Audit,Pass
+C00590,V0243,2026-06-26,Financial Health,Minor Issues
+C00591,V0244,2026-05-11,Financial Health,Fail
+C00592,V0244,2025-04-11,Financial Health,Pass
+C00593,V0245,2025-06-17,On-site Audit,Major Issues
+C00594,V0245,2025-07-13,KYC Refresh,Pass
+C00595,V0245,2025-03-10,Financial Health,Pass
+C00596,V0246,2025-09-24,On-site Audit,Fail
+C00597,V0246,2024-06-30,KYC Refresh,Pass
+C00598,V0247,2026-05-04,Certification Review,Minor Issues
+C00599,V0248,2026-02-20,KYC Refresh,Pass
+C00600,V0248,2026-04-18,KYC Refresh,Pass
+C00601,V0248,2026-01-19,Self-Assessment,Major Issues
+C00602,V0248,2024-09-09,KYC Refresh,Major Issues
+C00603,V0249,2026-01-17,KYC Refresh,Pass
+C00604,V0249,2025-06-20,Financial Health,Fail
+C00605,V0249,2025-11-04,Self-Assessment,Pass
+C00606,V0250,2025-11-26,Financial Health,Minor Issues
+C00607,V0250,2025-12-22,On-site Audit,Pass
+C00608,V0251,2025-04-03,On-site Audit,Pass
+C00609,V0251,2026-04-20,On-site Audit,Pass
+C00610,V0251,2024-08-17,Self-Assessment,Pass
+C00611,V0252,2026-03-09,On-site Audit,Minor Issues
+C00612,V0252,2025-08-18,Financial Health,Major Issues
+C00613,V0252,2025-05-03,On-site Audit,Minor Issues
+C00614,V0252,2024-12-15,KYC Refresh,Fail
+C00615,V0253,2025-05-28,Financial Health,Fail
+C00616,V0253,2026-03-31,Certification Review,Minor Issues
+C00617,V0253,2024-12-10,Financial Health,Minor Issues
+C00618,V0253,2025-07-18,Self-Assessment,Pass
+C00619,V0254,2025-01-23,On-site Audit,Pass
+C00620,V0255,2025-03-06,On-site Audit,Pass
+C00621,V0255,2026-04-03,Certification Review,Minor Issues
+C00622,V0255,2025-02-04,On-site Audit,Minor Issues
+C00623,V0256,2025-03-18,Financial Health,Fail
+C00624,V0256,2025-08-28,On-site Audit,Minor Issues
+C00625,V0256,2025-09-20,Certification Review,Minor Issues
+C00626,V0256,2024-10-08,KYC Refresh,Pass
+C00627,V0257,2025-09-11,Certification Review,Pass
+C00628,V0257,2026-04-22,On-site Audit,Pass
+C00629,V0257,2025-07-10,Self-Assessment,Minor Issues
+C00630,V0258,2026-03-03,Self-Assessment,Minor Issues
+C00631,V0258,2025-03-22,Certification Review,Pass
+C00632,V0258,2026-05-24,On-site Audit,Pass
+C00633,V0259,2025-12-11,Self-Assessment,Pass
+C00634,V0260,2026-02-11,Certification Review,Pass
+C00635,V0260,2024-08-05,Self-Assessment,Pass
+C00636,V0261,2024-08-03,Self-Assessment,Pass
+C00637,V0261,2024-09-14,On-site Audit,Major Issues
+C00638,V0262,2025-10-28,Certification Review,Pass
+C00639,V0263,2026-02-27,Financial Health,Pass
+C00640,V0263,2026-04-09,On-site Audit,Pass
+C00641,V0263,2025-06-20,KYC Refresh,Pass
+C00642,V0264,2024-07-11,On-site Audit,Pass
+C00643,V0264,2024-10-03,Financial Health,Major Issues
+C00644,V0265,2026-06-20,Self-Assessment,Minor Issues
+C00645,V0265,2026-04-26,KYC Refresh,Minor Issues
+C00646,V0265,2024-10-29,KYC Refresh,Major Issues
+C00647,V0266,2025-06-06,On-site Audit,Fail
+C00648,V0267,2025-06-18,Financial Health,Pass
+C00649,V0267,2024-06-29,KYC Refresh,Minor Issues
+C00650,V0267,2025-05-27,Self-Assessment,Pass
+C00651,V0267,2024-12-03,KYC Refresh,Fail
+C00652,V0268,2025-12-15,Certification Review,Pass
+C00653,V0268,2026-06-05,Financial Health,Pass
+C00654,V0268,2024-10-09,Self-Assessment,Pass
+C00655,V0269,2026-05-15,On-site Audit,Pass
+C00656,V0270,2025-11-15,KYC Refresh,Pass
+C00657,V0270,2025-02-18,On-site Audit,Pass
+C00658,V0270,2024-10-30,KYC Refresh,Minor Issues
+C00659,V0271,2026-05-09,KYC Refresh,Major Issues
+C00660,V0271,2026-06-23,Self-Assessment,Major Issues
+C00661,V0271,2026-05-10,Financial Health,Pass
+C00662,V0271,2025-01-27,Financial Health,Minor Issues
+C00663,V0272,2024-09-09,KYC Refresh,Minor Issues
+C00664,V0272,2025-11-19,On-site Audit,Pass
+C00665,V0273,2025-04-04,Financial Health,Minor Issues
+C00666,V0273,2025-01-09,KYC Refresh,Pass
+C00667,V0273,2024-09-01,On-site Audit,Pass
+C00668,V0274,2025-04-13,Certification Review,Pass
+C00669,V0274,2025-11-27,Certification Review,Pass
+C00670,V0274,2026-06-01,Financial Health,Pass
+C00671,V0275,2025-11-15,KYC Refresh,Minor Issues
+C00672,V0275,2024-11-04,On-site Audit,Minor Issues
+C00673,V0276,2024-08-08,On-site Audit,Minor Issues
+C00674,V0277,2025-05-02,Certification Review,Major Issues
+C00675,V0278,2025-10-27,Self-Assessment,Pass
+C00676,V0278,2025-02-21,Certification Review,Minor Issues
+C00677,V0278,2026-01-13,Self-Assessment,Pass
+C00678,V0279,2025-12-24,KYC Refresh,Pass
+C00679,V0279,2026-02-05,On-site Audit,Minor Issues
+C00680,V0279,2024-12-27,On-site Audit,Major Issues
+C00681,V0279,2025-05-28,KYC Refresh,Major Issues
+C00682,V0280,2025-11-20,KYC Refresh,Pass
+C00683,V0280,2024-09-07,On-site Audit,Pass
+C00684,V0280,2025-12-27,Financial Health,Pass
+C00685,V0281,2024-09-10,Certification Review,Pass
+C00686,V0281,2024-06-29,On-site Audit,Pass
+C00687,V0281,2024-12-11,KYC Refresh,Minor Issues
+C00688,V0282,2025-07-04,Financial Health,Pass
+C00689,V0283,2024-08-28,On-site Audit,Major Issues
+C00690,V0283,2024-10-10,Certification Review,Pass
+C00691,V0283,2025-10-03,Certification Review,Major Issues
+C00692,V0283,2024-12-21,KYC Refresh,Pass
+C00693,V0284,2025-08-06,Certification Review,Minor Issues
+C00694,V0284,2025-12-09,Financial Health,Minor Issues
+C00695,V0284,2025-06-09,Certification Review,Pass
+C00696,V0284,2024-07-06,Self-Assessment,Pass
+C00697,V0285,2024-07-05,Certification Review,Major Issues
+C00698,V0285,2025-12-21,Self-Assessment,Minor Issues
+C00699,V0286,2025-03-22,On-site Audit,Minor Issues
+C00700,V0286,2026-03-25,Self-Assessment,Minor Issues
+C00701,V0286,2024-09-30,KYC Refresh,Minor Issues
+C00702,V0286,2026-04-28,Certification Review,Pass
+C00703,V0287,2025-05-23,Certification Review,Pass
+C00704,V0288,2025-12-20,Financial Health,Pass
+C00705,V0289,2024-10-09,Certification Review,Pass
+C00706,V0289,2025-07-05,Financial Health,Pass
+C00707,V0289,2024-08-23,On-site Audit,Major Issues
+C00708,V0290,2024-12-23,Financial Health,Major Issues
+C00709,V0291,2025-04-22,Financial Health,Minor Issues
+C00710,V0291,2024-09-06,Self-Assessment,Pass
+C00711,V0291,2026-01-17,KYC Refresh,Pass
+C00712,V0291,2026-03-17,Certification Review,Minor Issues
+C00713,V0292,2024-09-16,KYC Refresh,Pass
+C00714,V0292,2024-09-17,KYC Refresh,Minor Issues
+C00715,V0292,2025-02-27,Certification Review,Minor Issues
+C00716,V0293,2025-04-10,On-site Audit,Pass
+C00717,V0293,2026-05-14,Self-Assessment,Minor Issues
+C00718,V0293,2025-02-16,KYC Refresh,Pass
+C00719,V0294,2024-10-13,On-site Audit,Pass
+C00720,V0294,2025-04-22,Self-Assessment,Pass
+C00721,V0294,2026-02-19,Financial Health,Pass
+C00722,V0294,2026-03-22,Financial Health,Pass
+C00723,V0295,2026-02-03,Self-Assessment,Pass
+C00724,V0295,2026-05-09,On-site Audit,Fail
+C00725,V0295,2024-10-10,Certification Review,Minor Issues
+C00726,V0295,2025-11-09,KYC Refresh,Pass
+C00727,V0296,2025-12-06,On-site Audit,Pass
+C00728,V0296,2024-10-17,On-site Audit,Pass
+C00729,V0296,2024-08-21,On-site Audit,Fail
+C00730,V0297,2025-08-15,Financial Health,Major Issues
+C00731,V0297,2025-09-09,Financial Health,Minor Issues
+C00732,V0297,2024-07-05,Self-Assessment,Pass
+C00733,V0298,2025-10-16,On-site Audit,Pass
+C00734,V0298,2025-11-15,On-site Audit,Pass
+C00735,V0298,2024-11-03,Certification Review,Pass
+C00736,V0298,2025-06-05,Self-Assessment,Minor Issues
+C00737,V0299,2025-03-28,KYC Refresh,Major Issues
+C00738,V0300,2026-01-11,KYC Refresh,Pass
+C00739,V0300,2024-12-11,Self-Assessment,Major Issues
+C00740,V0300,2025-10-29,Certification Review,Minor Issues
+C00741,V0301,2026-01-31,Self-Assessment,Pass
+C00742,V0301,2024-10-24,Self-Assessment,Pass
+C00743,V0301,2026-06-13,Self-Assessment,Pass
+C00744,V0302,2025-05-14,Financial Health,Fail
+C00745,V0302,2025-10-20,On-site Audit,Minor Issues
+C00746,V0302,2025-12-14,Self-Assessment,Pass
+C00747,V0303,2025-06-07,Self-Assessment,Major Issues
+C00748,V0303,2026-04-27,On-site Audit,Fail
+C00749,V0303,2024-12-14,KYC Refresh,Minor Issues
+C00750,V0303,2024-09-04,On-site Audit,Pass
+C00751,V0304,2026-05-26,KYC Refresh,Pass
+C00752,V0304,2024-09-15,Certification Review,Fail
+C00753,V0304,2024-10-15,Financial Health,Pass
+C00754,V0304,2026-02-03,KYC Refresh,Pass
+C00755,V0305,2024-10-02,Certification Review,Minor Issues
+C00756,V0305,2025-09-29,Certification Review,Minor Issues
+C00757,V0305,2026-01-17,Financial Health,Pass
+C00758,V0306,2025-04-23,Financial Health,Pass
+C00759,V0306,2025-03-29,Certification Review,Pass
+C00760,V0306,2025-05-28,Financial Health,Pass
+C00761,V0306,2025-02-28,On-site Audit,Pass
+C00762,V0307,2026-03-05,Certification Review,Pass
+C00763,V0308,2024-10-15,Financial Health,Pass
+C00764,V0308,2025-01-07,Certification Review,Pass
+C00765,V0308,2025-01-30,On-site Audit,Major Issues
+C00766,V0309,2025-11-11,Self-Assessment,Fail
+C00767,V0309,2024-09-02,KYC Refresh,Pass
+C00768,V0309,2025-01-07,On-site Audit,Fail
+C00769,V0310,2025-09-01,Self-Assessment,Pass
+C00770,V0311,2025-10-08,KYC Refresh,Fail
+C00771,V0311,2025-10-08,On-site Audit,Pass
+C00772,V0312,2026-01-10,KYC Refresh,Minor Issues
+C00773,V0313,2025-10-13,On-site Audit,Pass
+C00774,V0313,2025-02-05,On-site Audit,Pass
+C00775,V0313,2026-02-24,KYC Refresh,Pass
+C00776,V0314,2025-12-17,Self-Assessment,Minor Issues
+C00777,V0314,2024-07-19,Self-Assessment,Pass
+C00778,V0315,2026-04-18,On-site Audit,Fail
+C00779,V0315,2026-04-17,On-site Audit,Fail
+C00780,V0316,2025-11-22,Certification Review,Minor Issues
+C00781,V0316,2026-05-10,On-site Audit,Minor Issues
+C00782,V0316,2025-02-18,KYC Refresh,Major Issues
+C00783,V0316,2024-12-05,On-site Audit,Minor Issues
+C00784,V0317,2025-08-05,On-site Audit,Pass
+C00785,V0317,2025-10-13,On-site Audit,Pass
+C00786,V0317,2025-07-29,Self-Assessment,Minor Issues
+C00787,V0317,2024-11-22,On-site Audit,Pass
+C00788,V0318,2026-01-30,Self-Assessment,Minor Issues
+C00789,V0318,2025-04-29,Self-Assessment,Pass
+C00790,V0319,2025-02-13,Financial Health,Pass
+C00791,V0320,2025-11-12,On-site Audit,Minor Issues
+C00792,V0320,2024-08-10,Self-Assessment,Pass
+C00793,V0321,2026-02-27,Self-Assessment,Pass
+C00794,V0321,2026-05-27,On-site Audit,Pass
+C00795,V0321,2026-03-07,Certification Review,Pass
+C00796,V0321,2024-12-31,On-site Audit,Minor Issues
+C00797,V0322,2025-07-18,Financial Health,Minor Issues
+C00798,V0323,2025-04-24,Financial Health,Pass
+C00799,V0323,2024-09-24,Self-Assessment,Major Issues
+C00800,V0323,2025-01-02,Certification Review,Minor Issues
+C00801,V0323,2025-07-22,KYC Refresh,Pass
+C00802,V0324,2025-11-06,KYC Refresh,Pass
+C00803,V0324,2025-10-03,KYC Refresh,Major Issues
+C00804,V0324,2024-08-23,Financial Health,Major Issues
+C00805,V0324,2025-08-13,Self-Assessment,Major Issues
+C00806,V0325,2026-05-20,Self-Assessment,Major Issues
+C00807,V0325,2024-07-08,KYC Refresh,Pass
+C00808,V0326,2025-04-05,Self-Assessment,Minor Issues
+C00809,V0327,2026-06-24,Certification Review,Major Issues
+C00810,V0327,2025-03-01,On-site Audit,Pass
+C00811,V0328,2024-10-09,Certification Review,Pass
+C00812,V0328,2025-04-25,On-site Audit,Pass
+C00813,V0328,2026-04-28,Self-Assessment,Minor Issues
+C00814,V0329,2026-04-11,KYC Refresh,Pass
+C00815,V0330,2025-09-13,Financial Health,Major Issues
+C00816,V0330,2025-05-21,Certification Review,Pass
+C00817,V0331,2025-04-08,KYC Refresh,Major Issues
+C00818,V0331,2025-08-27,KYC Refresh,Fail
+C00819,V0332,2025-12-11,Certification Review,Minor Issues
+C00820,V0332,2024-11-10,Certification Review,Pass
+C00821,V0332,2026-02-11,Financial Health,Minor Issues
+C00822,V0333,2025-06-29,On-site Audit,Pass
+C00823,V0333,2026-02-17,KYC Refresh,Fail
+C00824,V0333,2024-08-24,Financial Health,Minor Issues
+C00825,V0333,2024-07-11,Self-Assessment,Pass
+C00826,V0334,2025-09-28,Financial Health,Major Issues
+C00827,V0334,2024-08-20,Certification Review,Pass
+C00828,V0335,2024-07-09,Self-Assessment,Fail
+C00829,V0335,2025-01-18,Financial Health,Pass
+C00830,V0335,2024-12-13,Self-Assessment,Pass
+C00831,V0335,2024-07-29,Certification Review,Pass
+C00832,V0336,2026-06-15,On-site Audit,Pass
+C00833,V0336,2024-08-14,Financial Health,Pass
+C00834,V0336,2026-03-04,Certification Review,Major Issues
+C00835,V0336,2025-05-04,On-site Audit,Pass
+C00836,V0337,2025-07-27,Financial Health,Pass
+C00837,V0337,2025-02-06,Certification Review,Pass
+C00838,V0337,2025-10-30,On-site Audit,Pass
+C00839,V0338,2026-01-03,On-site Audit,Minor Issues
+C00840,V0338,2025-07-23,Financial Health,Pass
+C00841,V0339,2026-02-14,On-site Audit,Pass
+C00842,V0339,2025-05-17,Certification Review,Pass
+C00843,V0340,2025-05-24,KYC Refresh,Pass
+C00844,V0340,2025-12-26,KYC Refresh,Pass
+C00845,V0340,2025-05-07,Self-Assessment,Pass
+C00846,V0341,2024-09-01,On-site Audit,Minor Issues
+C00847,V0341,2025-11-08,Financial Health,Pass
+C00848,V0341,2025-08-19,Certification Review,Pass
+C00849,V0342,2025-08-20,Self-Assessment,Pass
+C00850,V0343,2025-10-20,Self-Assessment,Minor Issues
+C00851,V0343,2024-10-25,KYC Refresh,Major Issues
+C00852,V0344,2025-01-30,Certification Review,Minor Issues
+C00853,V0344,2024-09-01,Certification Review,Fail
+C00854,V0344,2025-02-24,Certification Review,Major Issues
+C00855,V0345,2024-08-29,On-site Audit,Pass
+C00856,V0345,2025-07-31,Self-Assessment,Pass
+C00857,V0346,2026-06-14,KYC Refresh,Major Issues
+C00858,V0346,2024-12-03,Self-Assessment,Pass
+C00859,V0346,2026-03-18,Financial Health,Pass
+C00860,V0346,2024-10-27,Self-Assessment,Minor Issues
+C00861,V0347,2025-08-19,On-site Audit,Fail
+C00862,V0347,2025-03-09,KYC Refresh,Minor Issues
+C00863,V0347,2025-04-28,Certification Review,Pass
+C00864,V0348,2025-09-27,Certification Review,Pass
+C00865,V0349,2025-11-03,Certification Review,Pass
+C00866,V0350,2026-02-11,Self-Assessment,Pass
+C00867,V0351,2026-04-08,KYC Refresh,Minor Issues
+C00868,V0351,2025-11-15,Certification Review,Minor Issues
+C00869,V0352,2025-12-09,Certification Review,Pass
+C00870,V0352,2025-11-10,KYC Refresh,Pass
+C00871,V0352,2024-08-19,KYC Refresh,Pass
+C00872,V0353,2025-02-24,Self-Assessment,Pass
+C00873,V0353,2025-12-23,Certification Review,Fail
+C00874,V0353,2025-06-03,On-site Audit,Minor Issues
+C00875,V0353,2026-01-16,On-site Audit,Pass
+C00876,V0354,2026-04-17,KYC Refresh,Pass
+C00877,V0354,2024-12-31,Certification Review,Pass
+C00878,V0355,2024-08-12,Financial Health,Pass
+C00879,V0355,2025-01-04,Self-Assessment,Fail
+C00880,V0355,2024-09-03,Certification Review,Minor Issues
+C00881,V0356,2026-06-17,Certification Review,Pass
+C00882,V0356,2025-06-01,KYC Refresh,Pass
+C00883,V0357,2024-09-27,Financial Health,Minor Issues
+C00884,V0358,2025-06-16,Certification Review,Pass
+C00885,V0358,2025-10-17,KYC Refresh,Fail
+C00886,V0359,2025-10-14,Financial Health,Minor Issues
+C00887,V0359,2024-08-10,Certification Review,Pass
+C00888,V0359,2025-02-24,Self-Assessment,Minor Issues
+C00889,V0359,2025-11-28,KYC Refresh,Pass
+C00890,V0360,2026-01-26,Financial Health,Minor Issues
+C00891,V0360,2025-11-22,Self-Assessment,Fail
+C00892,V0361,2026-01-25,Financial Health,Major Issues
+C00893,V0361,2024-11-12,Certification Review,Pass
+C00894,V0362,2024-09-29,Certification Review,Minor Issues
+C00895,V0362,2024-07-08,On-site Audit,Minor Issues
+C00896,V0362,2025-12-30,Self-Assessment,Major Issues
+C00897,V0363,2024-10-13,Certification Review,Minor Issues
+C00898,V0363,2025-12-25,Certification Review,Pass
+C00899,V0363,2024-07-07,On-site Audit,Minor Issues
+C00900,V0364,2024-11-03,Financial Health,Major Issues
+C00901,V0364,2025-07-19,Self-Assessment,Minor Issues
+C00902,V0365,2025-03-25,KYC Refresh,Pass
+C00903,V0365,2025-08-09,Certification Review,Minor Issues
+C00904,V0365,2025-08-04,Self-Assessment,Pass
+C00905,V0366,2026-02-27,Self-Assessment,Minor Issues
+C00906,V0366,2026-03-29,Financial Health,Pass
+C00907,V0366,2026-01-09,Self-Assessment,Minor Issues
+C00908,V0367,2025-01-16,Self-Assessment,Minor Issues
+C00909,V0368,2024-11-05,Self-Assessment,Pass
+C00910,V0368,2025-04-13,On-site Audit,Pass
+C00911,V0368,2024-10-05,KYC Refresh,Pass
+C00912,V0369,2026-02-01,Self-Assessment,Minor Issues
+C00913,V0370,2026-02-25,Self-Assessment,Major Issues
+C00914,V0370,2026-05-08,Self-Assessment,Major Issues
+C00915,V0370,2025-01-23,KYC Refresh,Pass
+C00916,V0370,2026-01-19,Certification Review,Major Issues
+C00917,V0371,2026-05-18,Financial Health,Major Issues
+C00918,V0371,2024-09-28,On-site Audit,Minor Issues
+C00919,V0371,2026-02-18,KYC Refresh,Minor Issues
+C00920,V0372,2026-05-28,On-site Audit,Major Issues
+C00921,V0372,2024-07-21,Self-Assessment,Pass
+C00922,V0373,2025-03-16,On-site Audit,Pass
+C00923,V0373,2026-03-17,KYC Refresh,Major Issues
+C00924,V0373,2025-05-28,Self-Assessment,Minor Issues
+C00925,V0373,2025-01-26,Financial Health,Major Issues
+C00926,V0374,2025-08-09,Financial Health,Pass
+C00927,V0375,2024-08-17,Self-Assessment,Pass
+C00928,V0376,2025-01-19,Certification Review,Major Issues
+C00929,V0377,2026-01-03,On-site Audit,Minor Issues
+C00930,V0377,2025-09-19,Self-Assessment,Major Issues
+C00931,V0378,2025-10-29,On-site Audit,Pass
+C00932,V0378,2024-08-27,Financial Health,Pass
+C00933,V0378,2025-07-19,Certification Review,Pass
+C00934,V0379,2025-06-17,Certification Review,Major Issues
+C00935,V0379,2025-07-30,On-site Audit,Pass
+C00936,V0379,2025-04-04,KYC Refresh,Pass
+C00937,V0380,2024-08-11,Self-Assessment,Pass
+C00938,V0380,2025-07-22,KYC Refresh,Minor Issues
+C00939,V0380,2026-04-27,Financial Health,Pass
+C00940,V0380,2025-09-12,Financial Health,Pass
+C00941,V0381,2024-11-05,Financial Health,Pass
+C00942,V0381,2025-04-10,KYC Refresh,Minor Issues
+C00943,V0381,2024-10-29,Self-Assessment,Minor Issues
+C00944,V0381,2025-01-13,Certification Review,Major Issues
+C00945,V0382,2026-02-19,KYC Refresh,Major Issues
+C00946,V0382,2024-09-16,On-site Audit,Fail
+C00947,V0383,2026-05-24,Certification Review,Minor Issues
+C00948,V0383,2025-09-17,KYC Refresh,Pass
+C00949,V0383,2025-12-04,Self-Assessment,Pass
+C00950,V0383,2026-01-11,Financial Health,Pass
+C00951,V0384,2024-09-26,Certification Review,Pass
+C00952,V0384,2024-12-23,KYC Refresh,Pass
+C00953,V0384,2026-01-25,KYC Refresh,Pass
+C00954,V0384,2025-07-29,Financial Health,Fail
+C00955,V0385,2024-06-30,KYC Refresh,Minor Issues
+C00956,V0386,2024-08-02,Self-Assessment,Pass
+C00957,V0386,2026-04-26,KYC Refresh,Pass
+C00958,V0386,2026-04-30,Self-Assessment,Pass
+C00959,V0386,2024-07-08,KYC Refresh,Fail
+C00960,V0387,2025-01-04,On-site Audit,Pass
+C00961,V0387,2024-08-03,Certification Review,Major Issues
+C00962,V0387,2025-06-30,KYC Refresh,Pass
+C00963,V0387,2025-04-07,KYC Refresh,Pass
+C00964,V0388,2025-04-22,Financial Health,Pass
+C00965,V0388,2026-06-13,On-site Audit,Pass
+C00966,V0388,2024-10-23,Financial Health,Pass
+C00967,V0389,2024-11-15,Certification Review,Pass
+C00968,V0389,2026-06-22,On-site Audit,Fail
+C00969,V0389,2026-04-26,On-site Audit,Pass
+C00970,V0390,2024-07-26,KYC Refresh,Minor Issues
+C00971,V0391,2025-09-01,Financial Health,Pass
+C00972,V0391,2026-03-14,On-site Audit,Pass
+C00973,V0391,2026-06-08,Self-Assessment,Pass
+C00974,V0391,2026-01-04,Certification Review,Pass
+C00975,V0392,2026-01-25,KYC Refresh,Pass
+C00976,V0393,2025-11-20,Self-Assessment,Pass
+C00977,V0394,2025-05-20,Certification Review,Pass
+C00978,V0395,2024-12-20,Self-Assessment,Minor Issues
+C00979,V0395,2025-03-05,KYC Refresh,Minor Issues
+C00980,V0395,2025-01-07,On-site Audit,Minor Issues
+C00981,V0395,2025-05-18,Certification Review,Pass
+C00982,V0396,2026-06-10,On-site Audit,Pass
+C00983,V0396,2026-01-09,Self-Assessment,Minor Issues
+C00984,V0396,2025-03-04,On-site Audit,Minor Issues
+C00985,V0396,2025-01-25,On-site Audit,Minor Issues
+C00986,V0397,2026-04-01,Financial Health,Major Issues
+C00987,V0398,2024-08-28,Certification Review,Minor Issues
+C00988,V0398,2025-09-15,Certification Review,Minor Issues
+C00989,V0398,2025-04-14,Self-Assessment,Minor Issues
+C00990,V0398,2024-09-29,KYC Refresh,Fail
+C00991,V0399,2025-07-23,On-site Audit,Minor Issues
+C00992,V0399,2025-12-03,Self-Assessment,Pass
+C00993,V0400,2026-05-30,Financial Health,Pass
+C00994,V0400,2024-08-08,Self-Assessment,Minor Issues
+C00995,V0400,2024-11-15,Certification Review,Pass
+C00996,V0400,2024-12-19,Financial Health,Major Issues
+C00997,V0401,2026-03-15,KYC Refresh,Major Issues
+C00998,V0401,2025-08-03,Self-Assessment,Pass
+C00999,V0401,2024-08-03,On-site Audit,Pass
+C01000,V0402,2025-05-06,Financial Health,Pass
+C01001,V0403,2024-08-21,On-site Audit,Fail
+C01002,V0403,2026-05-11,Certification Review,Pass
+C01003,V0403,2025-06-25,Financial Health,Pass
+C01004,V0403,2026-05-02,Self-Assessment,Major Issues
+C01005,V0404,2025-02-03,KYC Refresh,Major Issues
+C01006,V0404,2026-02-19,Financial Health,Fail
+C01007,V0404,2026-04-16,Certification Review,Pass
+C01008,V0404,2025-02-25,On-site Audit,Pass
+C01009,V0405,2025-03-10,Financial Health,Major Issues
+C01010,V0405,2024-09-04,Certification Review,Pass
+C01011,V0406,2025-09-01,Financial Health,Pass
+C01012,V0406,2025-06-18,Financial Health,Fail
+C01013,V0407,2024-07-05,Self-Assessment,Major Issues
+C01014,V0407,2025-04-11,KYC Refresh,Minor Issues
+C01015,V0408,2024-12-01,KYC Refresh,Minor Issues
+C01016,V0408,2025-02-10,Self-Assessment,Pass
+C01017,V0408,2025-09-09,KYC Refresh,Minor Issues
+C01018,V0409,2026-02-28,Certification Review,Pass
+C01019,V0410,2025-02-20,Financial Health,Pass
+C01020,V0411,2026-01-24,Certification Review,Pass
+C01021,V0412,2025-10-25,Financial Health,Major Issues
+C01022,V0412,2025-01-03,Financial Health,Pass
+C01023,V0412,2025-06-24,On-site Audit,Pass
+C01024,V0412,2025-04-11,KYC Refresh,Pass
+C01025,V0413,2025-10-01,On-site Audit,Fail
+C01026,V0414,2025-07-17,Financial Health,Major Issues
+C01027,V0414,2026-02-19,Financial Health,Major Issues
+C01028,V0414,2026-02-21,Financial Health,Pass
+C01029,V0414,2024-11-27,On-site Audit,Fail
+C01030,V0415,2026-01-18,On-site Audit,Major Issues
+C01031,V0415,2026-05-29,KYC Refresh,Pass
+C01032,V0416,2025-08-27,On-site Audit,Minor Issues
+C01033,V0416,2026-02-09,Self-Assessment,Pass
+C01034,V0416,2026-03-09,Certification Review,Minor Issues
+C01035,V0416,2025-01-05,Certification Review,Pass
+C01036,V0417,2024-10-23,Financial Health,Pass
+C01037,V0418,2024-07-03,Certification Review,Major Issues
+C01038,V0418,2026-06-23,Self-Assessment,Pass
+C01039,V0418,2025-05-13,On-site Audit,Pass
+C01040,V0419,2024-07-17,Certification Review,Fail
+C01041,V0419,2024-12-26,On-site Audit,Pass
+C01042,V0419,2025-08-23,On-site Audit,Pass
+C01043,V0420,2025-03-25,Financial Health,Minor Issues
+C01044,V0420,2025-11-04,Self-Assessment,Minor Issues
+C01045,V0420,2026-04-12,On-site Audit,Pass
+C01046,V0420,2025-12-19,On-site Audit,Minor Issues
+C01047,V0421,2026-05-11,Financial Health,Pass
+C01048,V0422,2024-07-06,KYC Refresh,Minor Issues
+C01049,V0422,2025-03-16,KYC Refresh,Pass
+C01050,V0423,2024-06-30,KYC Refresh,Minor Issues
+C01051,V0423,2026-02-08,KYC Refresh,Minor Issues
+C01052,V0423,2025-11-21,KYC Refresh,Pass
+C01053,V0424,2025-04-17,Financial Health,Minor Issues
+C01054,V0424,2026-04-19,KYC Refresh,Pass
+C01055,V0424,2026-01-23,On-site Audit,Minor Issues
+C01056,V0424,2026-01-14,Financial Health,Major Issues
+C01057,V0425,2025-02-22,On-site Audit,Minor Issues
+C01058,V0425,2024-09-17,KYC Refresh,Pass
+C01059,V0425,2024-12-05,Self-Assessment,Pass
+C01060,V0426,2025-08-14,Financial Health,Minor Issues
+C01061,V0426,2024-12-30,Self-Assessment,Pass
+C01062,V0426,2025-05-21,KYC Refresh,Minor Issues
+C01063,V0427,2025-07-16,Self-Assessment,Pass
+C01064,V0427,2024-08-14,KYC Refresh,Minor Issues
+C01065,V0427,2024-10-17,Self-Assessment,Pass
+C01066,V0427,2026-01-02,Self-Assessment,Minor Issues
+C01067,V0428,2025-02-01,On-site Audit,Pass
+C01068,V0429,2024-09-09,Financial Health,Pass
+C01069,V0429,2024-08-02,Self-Assessment,Pass
+C01070,V0429,2026-06-14,Certification Review,Pass
+C01071,V0429,2024-12-25,Self-Assessment,Fail
+C01072,V0430,2026-05-26,Financial Health,Pass
+C01073,V0430,2026-04-16,Self-Assessment,Pass
+C01074,V0431,2025-08-06,Certification Review,Pass
+C01075,V0431,2025-05-15,KYC Refresh,Pass
+C01076,V0432,2025-12-25,Financial Health,Pass
+C01077,V0432,2026-05-25,Financial Health,Pass
+C01078,V0432,2025-04-14,Certification Review,Pass
+C01079,V0432,2025-06-20,On-site Audit,Pass
+C01080,V0433,2026-01-30,KYC Refresh,Pass
+C01081,V0433,2024-09-02,On-site Audit,Major Issues
+C01082,V0433,2025-09-23,Financial Health,Minor Issues
+C01083,V0433,2024-09-11,On-site Audit,Pass
+C01084,V0434,2025-07-26,Financial Health,Pass
+C01085,V0434,2024-10-10,Financial Health,Minor Issues
+C01086,V0434,2025-11-05,Self-Assessment,Pass
+C01087,V0435,2026-03-27,Self-Assessment,Minor Issues
+C01088,V0435,2025-05-01,Self-Assessment,Pass
+C01089,V0436,2024-08-26,Certification Review,Minor Issues
+C01090,V0436,2025-10-01,Financial Health,Pass
+C01091,V0437,2025-09-13,Certification Review,Minor Issues
+C01092,V0438,2024-08-16,Financial Health,Pass
+C01093,V0438,2025-06-01,On-site Audit,Pass
+C01094,V0438,2025-11-25,Financial Health,Pass
+C01095,V0439,2024-10-08,Financial Health,Pass
+C01096,V0439,2024-12-29,KYC Refresh,Pass
+C01097,V0440,2025-02-10,Self-Assessment,Minor Issues
+C01098,V0440,2025-01-17,On-site Audit,Major Issues
+C01099,V0441,2026-04-20,KYC Refresh,Pass
+C01100,V0441,2025-02-28,KYC Refresh,Pass
+C01101,V0441,2026-06-18,Certification Review,Minor Issues
+C01102,V0441,2026-03-13,On-site Audit,Pass
+C01103,V0442,2025-04-30,Financial Health,Pass
+C01104,V0442,2025-12-25,Financial Health,Major Issues
+C01105,V0442,2026-04-06,Self-Assessment,Pass
+C01106,V0442,2026-01-21,Certification Review,Pass
+C01107,V0443,2025-03-09,Financial Health,Pass
+C01108,V0444,2025-03-03,KYC Refresh,Pass
+C01109,V0445,2025-06-15,Certification Review,Pass
+C01110,V0445,2025-01-26,Financial Health,Minor Issues
+C01111,V0445,2024-12-27,Certification Review,Minor Issues
+C01112,V0445,2024-08-26,On-site Audit,Pass
+C01113,V0446,2024-12-03,Certification Review,Minor Issues
+C01114,V0447,2024-10-12,Certification Review,Minor Issues
+C01115,V0448,2026-02-24,Certification Review,Pass
+C01116,V0448,2026-02-17,KYC Refresh,Minor Issues
+C01117,V0448,2025-09-26,On-site Audit,Pass
+C01118,V0448,2024-09-21,On-site Audit,Pass
+C01119,V0449,2024-10-27,Self-Assessment,Pass
+C01120,V0449,2024-09-19,KYC Refresh,Minor Issues
+C01121,V0449,2024-11-03,On-site Audit,Pass
+C01122,V0450,2025-06-13,Financial Health,Pass
+C01123,V0451,2025-06-25,Certification Review,Pass
+C01124,V0451,2025-02-27,Financial Health,Pass
+C01125,V0452,2025-05-10,Certification Review,Pass
+C01126,V0452,2024-09-30,Self-Assessment,Major Issues
+C01127,V0452,2025-08-19,On-site Audit,Pass
+C01128,V0453,2025-04-03,Certification Review,Minor Issues
+C01129,V0454,2026-02-17,On-site Audit,Pass
+C01130,V0454,2024-12-07,Certification Review,Pass
+C01131,V0455,2025-06-15,Certification Review,Pass
+C01132,V0455,2025-02-23,Self-Assessment,Pass
+C01133,V0455,2025-06-23,KYC Refresh,Minor Issues
+C01134,V0456,2025-01-20,On-site Audit,Pass
+C01135,V0457,2026-04-22,KYC Refresh,Minor Issues
+C01136,V0457,2024-09-30,Self-Assessment,Minor Issues
+C01137,V0458,2024-09-07,Certification Review,Fail
+C01138,V0458,2024-10-29,Certification Review,Pass
+C01139,V0459,2026-03-18,Financial Health,Minor Issues
+C01140,V0460,2025-12-13,Financial Health,Pass
+C01141,V0460,2025-02-20,On-site Audit,Major Issues
+C01142,V0460,2026-04-01,Certification Review,Minor Issues
+C01143,V0460,2025-12-28,Self-Assessment,Pass
+C01144,V0461,2025-12-22,Self-Assessment,Pass
+C01145,V0461,2025-10-10,Self-Assessment,Pass
+C01146,V0461,2024-07-30,On-site Audit,Pass
+C01147,V0462,2024-12-13,Self-Assessment,Pass
+C01148,V0462,2026-04-09,Certification Review,Major Issues
+C01149,V0462,2026-04-25,Self-Assessment,Pass
+C01150,V0463,2025-03-10,KYC Refresh,Minor Issues
+C01151,V0464,2024-10-22,KYC Refresh,Pass
+C01152,V0464,2024-09-07,Certification Review,Major Issues
+C01153,V0465,2026-01-02,On-site Audit,Minor Issues
+C01154,V0466,2025-01-07,Certification Review,Minor Issues
+C01155,V0466,2025-04-01,Self-Assessment,Pass
+C01156,V0466,2025-05-02,On-site Audit,Pass
+C01157,V0467,2025-08-01,On-site Audit,Pass
+C01158,V0467,2024-08-06,Self-Assessment,Minor Issues
+C01159,V0467,2025-12-06,Financial Health,Pass
+C01160,V0468,2025-02-16,Financial Health,Major Issues
+C01161,V0469,2025-01-17,Financial Health,Pass
+C01162,V0469,2026-03-27,KYC Refresh,Fail
+C01163,V0469,2024-11-11,Self-Assessment,Fail
+C01164,V0469,2024-07-23,Self-Assessment,Pass
+C01165,V0470,2025-05-09,KYC Refresh,Minor Issues
+C01166,V0471,2026-04-23,Financial Health,Pass
+C01167,V0472,2025-06-15,Financial Health,Pass
+C01168,V0473,2025-09-03,Self-Assessment,Pass
+C01169,V0473,2026-01-31,Self-Assessment,Fail
+C01170,V0473,2025-08-30,Financial Health,Minor Issues
+C01171,V0473,2025-01-09,Financial Health,Minor Issues
+C01172,V0474,2024-09-10,Financial Health,Major Issues
+C01173,V0475,2025-06-22,KYC Refresh,Pass
+C01174,V0476,2024-09-16,On-site Audit,Major Issues
+C01175,V0477,2026-03-15,Financial Health,Fail
+C01176,V0477,2026-03-07,Self-Assessment,Major Issues
+C01177,V0478,2024-10-15,On-site Audit,Pass
+C01178,V0478,2024-10-01,Certification Review,Pass
+C01179,V0478,2024-07-08,Certification Review,Pass
+C01180,V0478,2024-08-15,KYC Refresh,Major Issues
+C01181,V0479,2026-04-04,Financial Health,Pass
+C01182,V0480,2026-02-25,Self-Assessment,Minor Issues
+C01183,V0480,2024-12-18,Self-Assessment,Minor Issues
+C01184,V0480,2024-10-08,Financial Health,Pass
+C01185,V0480,2024-11-29,On-site Audit,Minor Issues
+C01186,V0481,2026-03-30,Financial Health,Pass
+C01187,V0481,2025-05-06,Financial Health,Pass
+C01188,V0482,2025-04-14,Self-Assessment,Pass
+C01189,V0482,2025-12-14,Self-Assessment,Minor Issues
+C01190,V0482,2025-10-31,Certification Review,Pass
+C01191,V0482,2026-06-27,Certification Review,Minor Issues
+C01192,V0483,2025-11-11,Financial Health,Pass
+C01193,V0484,2024-09-02,Certification Review,Fail
+C01194,V0484,2025-09-24,Self-Assessment,Pass
+C01195,V0485,2025-09-27,Financial Health,Pass
+C01196,V0485,2025-01-16,Financial Health,Major Issues
+C01197,V0485,2026-06-11,Financial Health,Pass
+C01198,V0486,2026-03-22,KYC Refresh,Major Issues
+C01199,V0487,2024-08-26,Self-Assessment,Pass
+C01200,V0488,2024-07-15,KYC Refresh,Pass
+C01201,V0488,2024-08-18,Financial Health,Minor Issues
+C01202,V0488,2024-11-29,KYC Refresh,Minor Issues
+C01203,V0488,2026-05-30,Self-Assessment,Pass
+C01204,V0489,2025-11-12,Self-Assessment,Fail
+C01205,V0490,2025-06-08,On-site Audit,Pass
+C01206,V0490,2026-03-19,Financial Health,Minor Issues
+C01207,V0490,2024-10-07,Financial Health,Minor Issues
+C01208,V0491,2024-09-08,Self-Assessment,Minor Issues
+C01209,V0491,2026-06-01,KYC Refresh,Minor Issues
+C01210,V0491,2026-04-18,Certification Review,Pass
+C01211,V0491,2026-04-04,KYC Refresh,Major Issues
+C01212,V0492,2026-03-19,Self-Assessment,Minor Issues
+C01213,V0493,2025-03-13,Financial Health,Pass
+C01214,V0494,2024-10-02,Self-Assessment,Pass
+C01215,V0494,2024-08-01,On-site Audit,Pass
+C01216,V0494,2025-06-22,Certification Review,Pass
+C01217,V0495,2024-08-07,Self-Assessment,Major Issues
+C01218,V0496,2024-11-06,Self-Assessment,Pass
+C01219,V0496,2026-06-16,Self-Assessment,Major Issues
+C01220,V0497,2025-09-17,Self-Assessment,Pass
+C01221,V0497,2025-05-31,On-site Audit,Major Issues
+C01222,V0497,2026-03-29,KYC Refresh,Minor Issues
+C01223,V0497,2026-01-12,Self-Assessment,Major Issues
+C01224,V0498,2025-05-01,KYC Refresh,Pass
+C01225,V0499,2025-07-19,On-site Audit,Minor Issues
+C01226,V0500,2024-07-21,Certification Review,Major Issues
+C01227,V0500,2025-04-22,Financial Health,Pass
+C01228,V0500,2025-12-11,Self-Assessment,Minor Issues
