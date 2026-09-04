@@ -1,11 +1,8 @@
 # Vendor Risk & Compliance Monitoring System
-*A Risk Advisory analytics project — built for KPMG Technical Internship portfolio*
+*A Risk Advisory analytics project*
 
 ## Project Summary
 An end-to-end vendor risk and compliance monitoring solution simulating a Risk Advisory engagement: ingesting vendor master data, transaction history, compliance check records, and audit findings into a relational database, computing a composite risk score per vendor, and surfacing the results through a Power BI dashboard, an Excel remediation tracker, and a documented automation workflow.
-
-## Why this project
-Maps directly to the internship's core responsibilities: Power BI dashboard development, advanced Excel/automated trackers, data analysis with Python/SQL, and supporting risk assessments and compliance reviews.
 
 ## Architecture
 ```
